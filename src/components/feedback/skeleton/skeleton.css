@@ -1,0 +1,16 @@
+.move {
+  width: 200px;
+  height: 100px;
+  background-color: #e5e7eb;
+  animation: skeleton 1s infinite alternate;
+}
+
+@keyframes skeleton {
+  from {
+    background-color: #e5e7eb;
+  }
+
+  to {
+    background-color: #d1d5db;
+  }
+}

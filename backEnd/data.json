@@ -1,0 +1,4921 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Air Conditioners",
+      "cover": "https://ads-fusion-prod.s3.eu-west-1.amazonaws.com/campaign-manager/bf194ef8-9263-4f01-8c21-31daa44ea40c/web_adMedia_ar_4f77fdb4-947c-4e91-aaac-1e4b732c2f35",
+      "prefix": "air-conditioners",
+      "tags": [
+        {
+          "id": "all",
+          "title": "عرض الكل"
+        }
+      ],
+      "img": "https://media.btech.com/categories/d517f55e-ef8a-4dad-a7c6-0d837adbda5a"
+    },
+    {
+      "id": 2,
+      "title": "Large Home Appliances",
+      "cover": "https://media.egyin.com/2025/9/large/17591506365311202509130852125212.jpg",
+      "prefix": "large-home-appliances",
+      "img": "https://media.btech.com/categories/899b0183-d6a2-4b36-86c9-ee2092f38a98",
+      "tags": [
+        {
+          "id": "refrigerators",
+          "title": "ثلاجات"
+        },
+        {
+          "id": "deep-freezers",
+          "title": "ديب فريزر"
+        },
+        {
+          "id": "washing-machines-dryers",
+          "title": "غسالات ملابس ومجففات"
+        },
+        {
+          "id": "cookers",
+          "title": "بوتاجازات"
+        },
+        {
+          "id": "built-in-hoods",
+          "title": "شفاطات بلت ان"
+        },
+        {
+          "id": "air-conditioners",
+          "title": "تكييفات"
+        },
+        {
+          "id": "dishwashers",
+          "title": "غسالات اطباق"
+        },
+        {
+          "id": "built-in-hobs",
+          "title": "مسطحات بيلت ان"
+        },
+        {
+          "id": "appliance-parts-accessories",
+          "title": "اجزاء واكسسوارات الأجهزة"
+        },
+        {
+          "id": "built-in-ovens",
+          "title": "افران بيلت ان"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Mobile, Tablets & Accessories",
+      "cover": "https://ads-fusion-prod.s3.eu-west-1.amazonaws.com/campaign-manager/bf194ef8-9263-4f01-8c21-31daa44ea40c/web_adMedia_ar_4f77fdb4-947c-4e91-aaac-1e4b732c2f35",
+      "prefix": "mobile-tablets",
+      "img": "https://media.btech.com/categories/843dab4f-ab7d-42a1-916b-d23f82c135f8",
+      "tags": [
+        {
+          "id": "all",
+          "title": "عرض الكل"
+        },
+        {
+          "id": "mobile-phones",
+          "title": "موبايلات"
+        },
+        {
+          "id": "mobile-accessories",
+          "title": "اكسسوارات موبايل"
+        },
+        {
+          "id": "tablets",
+          "title": "اجهزة تابلت"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "cover": "https://ads-fusion-prod.s3.eu-west-1.amazonaws.com/campaign-manager/3ae73d64-4bb3-4448-acf2-83f5cc687be1/web_adMedia_ar_b5613f15-6a2c-4f98-9696-30b54ccd512a",
+      "title": "Small Home Appliances",
+      "prefix": "small-home-appliances",
+      "img": "https://media.btech.com/categories/9af004a0-7ad3-4cf6-8862-c77d623079f2",
+      "tags": [
+        {
+          "id": "all",
+          "title": "عرض الكل"
+        },
+        {
+          "id": "air-coolers",
+          "title": "تكييفات صحراوية"
+        },
+        {
+          "id": "food-processors-grinders",
+          "title": "محضرات طعام ومطاحن"
+        },
+        {
+          "id": "microwaves-ovens",
+          "title": "ميكرويف وافران"
+        },
+        {
+          "id": "blenders-mixers",
+          "title": "خلاطات وعجانات"
+        },
+        {
+          "id": "choppers",
+          "title": "كبة"
+        },
+        {
+          "id": "kettles-coffee-makers",
+          "title": "غلايات المياه وماكينات القهوة"
+        },
+        {
+          "id": "vacuum-cleaners",
+          "title": "مكانس"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Non-Electronic Supplies",
+      "cover": "https://ads-fusion-prod.s3.eu-west-1.amazonaws.com/campaign-manager/bf194ef8-9263-4f01-8c21-31daa44ea40c/web_adMedia_ar_4f77fdb4-947c-4e91-aaac-1e4b732c2f35",
+      "prefix": "non-electronic-supplies",
+      "img": "https://media.btech.com/categories/d45f2115-be4e-4ec3-b973-5ecbf597bdae"
+    },
+    {
+      "id": 5,
+      "title": "Electronics",
+      "prefix": "electronics",
+      "cover": "https://cdn.salla.sa/gDAVV/3e8e8191-c824-40c0-9661-52fde8be0edb-1000x476.19047619048-BEHhZjcstR48IvG74cGpJRbBD7kNQkcYBfgpS0Pp.jpg",
+      "img": "https://media.btech.com/categories/67f3fe3c-0af7-4c2e-8dd2-026077da4f14",
+      "tags": [
+        {
+          "id": "all",
+          "title": "عرض الكل"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "TVs & Projectors",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrg5Nqg1Be72SNEu2axJCg7Y4GE8xwUW5sVwFRjPaHDr2jN0YfxYLQNT0&s=10",
+      "prefix": "tvs-projectors",
+      "img": "https://media.btech.com/categories/e5cf37e8-8ad3-46c9-ab2c-015929720926",
+      "tags": [
+        {
+          "id": "all",
+          "title": "عرض الكل"
+        },
+        {
+          "id": "televisions",
+          "title": "تلفزيونات"
+        },
+        {
+          "id": "tv-accessories",
+          "title": "اكسسوارات التلفزيون"
+        },
+        {
+          "id": "tv-audio",
+          "title": "اجهزة صوت"
+        },
+        {
+          "id": "satellite-equipment",
+          "title": "اجهزة ستالايت"
+        },
+        {
+          "id": "projectors",
+          "title": "اجهزة بروجكتور"
+        },
+        {
+          "id": "projector-accessories",
+          "title": "اكسسوارات اجهزة بروجكتور"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Personal Care Appliances",
+      "cover": "https://ads-fusion-prod.s3.eu-west-1.amazonaws.com/campaign-manager/bf194ef8-9263-4f01-8c21-31daa44ea40c/web_adMedia_ar_4f77fdb4-947c-4e91-aaac-1e4b732c2f35",
+      "prefix": "personal-care-appliances",
+      "img": "https://media.btech.com/categories/c8f3bc14-3f87-4f33-abeb-f298c8a52557",
+      "tags": [
+        {
+          "id": "all",
+          "title": "عرض الكل"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tags": [
+        {
+          "id": "laptops",
+          "title": "اجهزة لاب توب"
+        },
+        {
+          "id": "desktop-computers",
+          "title": "اجهزة كمبيوتر"
+        },
+        {
+          "id": "computer-components",
+          "title": "مكونات الكمبيوتر"
+        },
+        {
+          "id": "computer-accessories",
+          "title": "اكسسوارات لاب توب وكمبيوتر"
+        },
+        {
+          "id": "external-storage",
+          "title": "ذاكرة تخزين خارجية وفلاش درايف"
+        },
+        {
+          "id": "monitors",
+          "title": "شاشات"
+        },
+        {
+          "id": "imported-laptops",
+          "title": "لاب توب استيراد"
+        },
+        {
+          "id": "imported-monitors",
+          "title": "شاشات استيراد"
+        }
+      ],
+      "title": "Laptops & Computers",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvozGGfKbnfUF70EwQcxvXFGmxITByuDY-nbT5kJpv_g6KvlGoRUX5yqX0&s=10",
+      "prefix": "laptop-pc",
+      "img": "https://media.btech.com/categories/c9f86bcb-a2cd-49f9-9186-7b66a892ace7"
+    },
+    {
+      "id": 9,
+      "title": "Audio & Recording Devices",
+      "cover": "https://ads-fusion-prod.s3.eu-west-1.amazonaws.com/campaign-manager/bf194ef8-9263-4f01-8c21-31daa44ea40c/web_adMedia_ar_4f77fdb4-947c-4e91-aaac-1e4b732c2f35",
+      "prefix": "audio-recording-devices",
+      "img": "https://media.btech.com/categories/a30ee11c-c9b2-4249-9b6a-2345c7bf16fa"
+    },
+    {
+      "id": 10,
+      "title": "playstation",
+      "cover": "https://i.ytimg.com/vi_webp/EFeLU0BugS8/maxresdefault.webp",
+      "prefix": "PlayStation",
+      "img": "https://media.btech.com/categories/d864a7f2-5310-416c-8c84-0f9c1a4a573d",
+      "tags": [
+        {
+          "id": "all",
+          "title": "عرض الكل"
+        },
+        {
+          "id": "consoles",
+          "title": "أجهزة ألعاب"
+        },
+        {
+          "id": "gaming-accessories",
+          "title": "إكسسوارات ألعاب"
+        },
+        {
+          "id": "video-games",
+          "title": "ألعاب فيديو"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 38,
+      "title": "   ثلاجة 2 دي 411 لتر   مقدمه من samsuming ",
+      "price": 27100,
+      "discount": 12,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z3C52678B20FD93688874Z/45/_/1779708849/db612b06-b5d1-45fb-84d3-23e903bb6ee8.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z3C52678B20FD93688874Z/45/_/1779708849/db612b06-b5d1-45fb-84d3-23e903bb6ee8.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z3C52678B20FD93688874Z/45/_/1779708849/21c3c902-955e-43bf-9eff-c55ba18910e3.jpg?width=800"
+      ],
+      "max": 2,
+      "latest": false,
+      "bestSelling": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": " Morandi Grey"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "GR-RT559WE-PMN(06)"
+        },
+        {
+          "title": "    طول المنتج",
+          "value": "1723 mm"
+        },
+        {
+          "title": " عرض المنتج",
+          "value": "700 mm"
+        },
+        {
+          "title": "  السعة الصافية للثلاجة",
+          "value": "411 L"
+        },
+        {
+          "title": " اسم الموديل ",
+          "value": "GR-RT559WE-PMN(06)"
+        },
+        {
+          "title": "  ارتفاع المنتج ",
+          "value": "1723 mm"
+        },
+        {
+          "title": " عرض المنتج",
+          "value": "700 mm  "
+        },
+        {
+          "title": "السعة الإجمالية للثلاجة",
+          "value": "411 L"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 1,
+      "title": "تكييف هواء سبليت قياسي بارد بتشغيل جاف وتبريد سريع بقوة 1.5 حصان 12000 ml TH-C12UEE أبيض",
+      "price": 249,
+      "discount": 14,
+      "cat_prefix": "air-conditioners",
+      "img": [
+        "https://media.btech.com/catalogs/6/a/4/d/6a4dc0bccd0a62999fb38781636ec698c4c0ee87_215f84d8_2674_480c_b8ba_d6f7545c361f.jpg",
+        "https://media.btech.com/catalogs/1/b/e/a/1bea3dc990c520af2e7976977062643fb998b85a_7f505ff5_989c_4d99_bbfd_05b360b5f38d_copy.jpg",
+        "https://media.btech.com/catalogs/d/8/6/8/d868b12fdecaf868c600848c4c215ea744d38718_285c4088_c91c_4763_a048_952d4028ec70_copy.jpg"
+      ],
+      "max": 11,
+      "latest": true,
+      "specifications": [
+        {
+          "title": "البراند",
+          "value": "يونيون اير"
+        },
+        {
+          "title": "نوع التكييف",
+          "value": "سبليت"
+        },
+        {
+          "title": "نظام التبريد",
+          "value": "بارد فقط"
+        },
+        {
+          "title": "نوع الضاغط",
+          "value": "انفرتر"
+        },
+        {
+          "title": "سعة التبريد",
+          "value": "12000 وحدة حرارية بريطانية"
+        },
+        {
+          "title": "القدرة الحصانية",
+          "value": "1.5 حصان"
+        },
+        {
+          "title": "اللون",
+          "value": "أبيض"
+        },
+        {
+          "title": "رقم الموديل",
+          "value": "TH-C12UEE"
+        },
+        {
+          "title": "اسم الموديل",
+          "value": "TH-C12UEE"
+        },
+        {
+          "title": "وضع التشغيل",
+          "value": "تبريد سريع"
+        },
+        {
+          "title": "التشغيل الجاف",
+          "value": "متوفر"
+        }
+      ],
+      "productInformation": [
+        {
+          "title": "التركيب",
+          "value": "متاح مقابل رسوم إضافية"
+        },
+        {
+          "title": "الضمان",
+          "value": "ضمان 5 سنوات"
+        },
+        {
+          "title": "أبعاد المنتج",
+          "value": "90 × 45 × 25 سم"
+        },
+        {
+          "title": "يباع من",
+          "value": "TechNest"
+        },
+        {
+          "title": "ملاحظة البائع",
+          "value": "الحامل غير مشمول"
+        },
+        {
+          "title": "تشحن من",
+          "value": "مخازن TechNest"
+        },
+        {
+          "title": "التوصيل",
+          "value": "متاح إلى معظم المحافظات"
+        },
+        {
+          "title": "موعد التوصيل",
+          "value": "خلال 2 إلى 5 أيام عمل"
+        },
+        {
+          "title": "سياسة الاسترجاع",
+          "value": "متاح وفقًا لسياسة المتجر"
+        },
+        {
+          "title": "خدمة ما بعد البيع",
+          "value": "متاحة"
+        }
+      ],
+      "isOfferYouLike": true
+    },
+    {
+      "id": 7,
+      "title": "لابتوب ثينك باد E14 جيل 7 بشاشة WUXGA (1920X1200) مقاس 14 بوصة، مع معالج كور ألترا 7-255H/ 16 جيجابايت رام DDR5/ 512 جيجابايت SSD/ رسومات إنتل آرك/ دوس (بدون ويندوز)",
+      "price": 65625,
+      "discount": 20,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z1CE955B54C7FC0639C69Z/45/_/1780913537/9ceafdb1-d8d8-4357-ac99-7dd28219b3c8.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z1CE955B54C7FC0639C69Z/45/_/1780913536/4733609e-e89a-43ab-ba39-2f676a4408c0.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z1CE955B54C7FC0639C69Z/45/_/1780913537/c4752783-d346-4d66-b97f-25df5d1d3e20.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z1CE955B54C7FC0639C69Z/45/_/1780913537/562e75c7-5bfc-4f98-90b6-a0eaf20d4797.jpg?width=800"
+      ],
+      "max": 5,
+      "productInformation": [
+        {
+          "title": "سرعة المعالج المركزي",
+          "value": "1.5 GHz"
+        },
+        {
+          "title": "الذاكرة الداخلية  ",
+          "value": "512 GB"
+        },
+        {
+          "title": "دقة الشاشة",
+          "value": "1920x1200"
+        },
+        {
+          "title": " نوع",
+          "value": "SSD"
+        },
+        {
+          "title": " نظام التشغيل",
+          "value": "دوس"
+        },
+        {
+          "title": "  حجم ذاكرة الوصول العشوائي",
+          "value": "16 GB"
+        },
+        {
+          "title": "     حجم الشاشة",
+          "value": "14 in"
+        },
+        {
+          "title": "      رقم إصدار المعالج/الجيل",
+          "value": "2nd Gen"
+        },
+        {
+          "title": "    نوع ذاكرة الوصول العشوائي",
+          "value": "DDR3L"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "جهاز بلايستيشن 4 سليم سعة 500 جيجابايت مع ذراع تحكم",
+      "price": 34999,
+      "discount": 10,
+      "cat_prefix": "PlayStation",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZAC25C462E364A71AB1A6Z/45/_/1780466048/1f12e3b0-eaf5-4d25-897b-8b76b9c69580.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZAC25C462E364A71AB1A6Z/45/_/1780466048/939f63c3-b2cc-4a16-b553-d7dd37204ddc.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZAC25C462E364A71AB1A6Z/45/_/1780466048/f1760f8f-319c-420c-94bc-659d2c342619.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZAC25C462E364A71AB1A6Z/45/_/1780466048/02d8ac5e-78f2-4a1f-9752-bb72da36b2d5.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZAC25C462E364A71AB1A6Z/45/_/1780466048/bc62c905-d219-4332-9ed4-6d130b3c9b0d.jpg?width=800"
+      ],
+      "bestSelling": true,
+      "latest": true,
+      "isOfferYouLike": true,
+      "max": 8,
+      "specifications": [
+        {
+          "title": "نوع الجهاز",
+          "value": "PlayStation 5 Slim"
+        },
+        {
+          "title": "نوع وحدة التخزين",
+          "value": "SSD"
+        },
+        {
+          "title": "سعة التخزين",
+          "value": "1 TB"
+        },
+        {
+          "title": "نوع محرك الأقراص",
+          "value": "Blu-ray Disc"
+        },
+        {
+          "title": "دقة العرض",
+          "value": "حتى 4K"
+        },
+        {
+          "title": "معدل التحديث",
+          "value": "حتى 120 Hz"
+        },
+        {
+          "title": "اللون",
+          "value": "أبيض"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "طابعة متعددة الاستخدامات اتش بي سمارت تانك 581 ، اسود - 4A8D4A",
+      "price": 7015,
+      "discount": 12,
+      "cat_prefix": "electronics",
+      "img": [
+        "https://media.btech.com/catalogs/4/4/0/3/4403252276d7f45998f1931ced5e5b3dcb00aa2b_edd4d8385d6536181e89ebd85c73ab55d304a0b3ef3198fb8524bf2563791e98.jpeg",
+        "https://media.btech.com/catalogs/7/d/3/8/7d385c5a2c82ba0bbb6fc4cf45ad16bc7693d764_a9f57d78f56fe9870f33df06f211e138b76b3f3d47c3f20342238c339eb2e03b.jpeg",
+        "https://media.btech.com/catalogs/9/5/9/c/959c88d66d1cef390b159be7df4675d02d7fcf21_bc24aea6185200fd7a1f2ee5bfcbf91b952a0be5551b4b14ddf00b5805838cd5.jpeg",
+        "https://media.btech.com/catalogs/f/e/6/9/fe699ea7dee6bdd341404257d7a2b01b9c9db47a_72cd04437fe27a0b3e4c9f33b9917d41996a92ae700fad6b401930d0e6b83b33.jpeg",
+        "https://media.btech.com/catalogs/2/f/c/6/2fc69b8aec44b3fbe85962d7f5356ca52968b291_c98fcddff2398095aa01e5f00a40919d5d63656aaea3bf6b3dd65af55fa48b14.jpeg"
+      ],
+      "max": 5,
+      "latest": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": "البراند",
+          "value": "اتش بي "
+        },
+        {
+          "title": "فاكس مدمج",
+          "value": " غير متوفر "
+        },
+        {
+          "title": "سكانر مدمج",
+          "value": " متوفر "
+        },
+        {
+          "title": "طباعة من خلال الموبايل",
+          "value": " متوفر "
+        },
+        {
+          "title": "رقم الموديل",
+          "value": " 4A8D4A "
+        },
+        {
+          "title": "اسم الموديل",
+          "value": " سمارت تانك 581 "
+        },
+        {
+          "title": " وزن المنتج",
+          "value": " 1 كجم   "
+        },
+        {
+          "title": " دقة الطباعة",
+          "value": " حتى 1200x 1200 نقطة في البوصة   "
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 21,
+      "title": " شاشة تلفزيون سمارت سامسونج ، مقاس 43 بوصة ، ليد ، دقة FHD ، بريسيفر داخلي",
+      "price": 15034,
+      "discount": 14,
+      "cat_prefix": "tvs-projectors",
+      "img": [
+        "https://media.btech.com/catalogs/c/b/e/d/cbed9b871da4788796472af1e159d58f9d07ff53_07848723e8ac1bd57b2adde754f5c5cda5514f920f8f6adcc2f7c59b6a95ada1.jpeg",
+        "https://media.btech.com/catalogs/2/1/4/7/2147301b4c1c8bc1557d9d1b6710be193e5f00a6_a492c31331d83d1881a148cdf5dfefd6c987057ca59d917bd1b9fd4ecea11414.jpeg",
+        "https://media.btech.com/catalogs/9/1/1/0/911025dc489da2833a30e8c1ec1994153d0839c5_beae47baba80f3923a70faf9de095d0b3dc22dc684746f7d69e3ed83067e215d.jpeg",
+        "https://media.btech.com/catalogs/b/d/a/4/bda4f52fe89adc844d1442e8501d43958172a084_d668b8eb562226e3f924400c9d1c8ba1c1a892d57fd00c65e2b45894de15c097.jpeg"
+      ],
+      "max": 1,
+      "latest": true,
+      "bestSelling": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": " البراند",
+          "value": "    سامسونج  "
+        },
+        {
+          "title": "   نوع الشاشة",
+          "value": " ليد"
+        },
+        {
+          "title": "     الدقة",
+          "value": "1920x1080"
+        },
+        {
+          "title": "     بريموت كنترول",
+          "value": "نعم"
+        },
+        {
+          "title": "     بريموت كنترول",
+          "value": "نعم"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "1 كجم"
+        },
+        {
+          "title": " نوع الاتصال",
+          "value": "إيثرنت، واي فاي"
+        },
+        {
+          "title": " عدد منافذ HDMI",
+          "value": "2"
+        },
+        {
+          "title": "  ريسيفر داخلي",
+          "value": "  ريسيفر داخلي"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 27,
+      "title": "هاتف سامسونج جالاكسي A07 ثنائي الشريحة، أخضر، ذاكرة 4 جيجابايت، سعة تخزين 64 جيجابايت، يدعم شبكة الجيل الرابع - إصدار الشرق الأوسط",
+      "price": 9910,
+      "discount": 12,
+      "cat_prefix": "mobile-tablets",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZCC7C2C9E7F16A2CAC924Z/45/_/1772090829/7f896495-f735-4586-abd0-d32ab09d11b8.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZCC7C2C9E7F16A2CAC924Z/45/_/1772090829/8a150492-c801-4ba7-b81b-09e344b39295.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZCC7C2C9E7F16A2CAC924Z/45/_/1772090829/a358832f-d443-4a07-9ca1-7e2c55cf828b.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZCC7C2C9E7F16A2CAC924Z/45/_/1772090829/b7637a77-3323-4672-8f45-3d25346ef5d5.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZCC7C2C9E7F16A2CAC924Z/45/_/1772090829/fad5b7a9-2390-4522-aeab-4cc414c6468b.jpg?width=800"
+      ],
+      "max": 4,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": " نوع الذاكرة",
+          "value": "       بطاقة بطاقة MicroSD"
+        },
+        {
+          "title": "   عدد شريحة Sim ",
+          "value": "مزدوج الشريحة"
+        },
+        {
+          "title": "     حجم ذاكرة الوصول العشوائي",
+          "value": "4 GB "
+        },
+        {
+          "title": "      الذاكرة الداخلية",
+          "value": "64 GB"
+        },
+        {
+          "title": "      حجم الشاشة",
+          "value": "6.7 in"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "190 g"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "190 g"
+        },
+        {
+          "title": "   دقة الكاميرا الأساسية",
+          "value": "50 MP "
+        },
+        {
+          "title": "  دقة الشاشة",
+          "value": "  1080x2400"
+        },
+        {
+          "title": " دقة الكاميرا الأساسية ",
+          "value": "8 MP"
+        },
+        {
+          "title": " نظام التشغيل ",
+          "value": "أندرويد 13"
+        },
+        {
+          "title": "  اسم المعالج  ",
+          "value": " كوالكوم سناب دراجون"
+        },
+        {
+          "title": " نوع الشحن",
+          "value": "نوع C"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 39,
+      "title": " ثلاجة زانوسي 2 باب نوفروست فريزر علوي سعة 535 لتر – شاشة وتحكم رقمي – إنفرتر – فضي اينوكس",
+      "price": 30999,
+      "discount": 20,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZCF5E6422F34144ACCF7BZ/45/_/1787070124/4d5b79d1-288c-4572-8332-7e5a6de00bd0.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZCF5E6422F34144ACCF7BZ/45/_/1787070124/b60ed1ad-44e4-4901-9666-957c6a141ec4.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZCF5E6422F34144ACCF7BZ/45/_/1787070124/62a8a906-4fa6-4072-8252-9a3f9f4eefdb.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZCF5E6422F34144ACCF7BZ/45/_/1787070124/ec26fdb6-607f-4a19-ba8a-63cbb377decb.jpg?width=800"
+      ],
+      "max": 1,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": "  silver"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "ZTE7002SA"
+        },
+        {
+          "title": "    طول المنتج",
+          "value": "55 cm"
+        },
+        {
+          "title": "  المادة",
+          "value": "معدني"
+        },
+        {
+          "title": "  السعة الصافية للثلاجة",
+          "value": "411 L"
+        },
+        {
+          "title": " اسم الموديل ",
+          "value": "535"
+        },
+        {
+          "title": "  ارتفاع المنتج ",
+          "value": "1723 mm"
+        },
+        {
+          "title": " عرض المنتج",
+          "value": "700 mm  "
+        },
+        {
+          "title": "السعة الإجمالية للثلاجة",
+          "value": "411 L"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 2,
+      "title": "تكييف 1.5 حصان بارد انفرتر- يونيون اير ارتفاي -INV-ARTO012",
+      "price": 229,
+      "discount": 11,
+      "cat_prefix": "air-conditioners",
+      "img": [
+        "https://media.btech.com/catalogs/e/1/e/8/e1e8a8508a2a32cdafaf378412e12fedca784434_B6000002646T.jpg",
+        "https://media.btech.com/catalogs/e/7/0/d/e70db0e73f1cabbc6cb5bb45aa2f5f9202a513dd_61s5_5d4QsL._AC_SL1115_.jpg",
+        "https://media.btech.com/catalogs/e/b/3/f/eb3f991b74377e44c18b42bdaa0f5dae8f0cfd55_B6000002646T.jpg"
+      ],
+      "max": 11,
+      "latest": true,
+      "isOfferYouLike": true,
+      "bestSelling": true
+    },
+    {
+      "id": 8,
+      "title": "لابتوب الألعاب فيكتوس 15-FA1082WM مع شاشة FHD IPS بحجم 15.6 بوصة وتردد 144 هرتز، مع معالج Core i5-13420H/ذاكرة RAM سعة 16 جيجابايت/قرص SSD سعة 512 جيجابايت/بطاقة رسومات NVIDIA Geforce RTX 4050 بسعة 6 جيجابايت/نظام Windows 11",
+      "price": 56576,
+      "discount": 35,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z7949346A565541B3C4FBZ/45/_/1780306544/df330a8d-9db4-4f94-9289-a2924dc41762.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z7949346A565541B3C4FBZ/45/_/1780306543/cc51f479-b5e3-4570-9016-281f3505046a.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z7949346A565541B3C4FBZ/45/_/1780306544/8733fcad-0c86-4d11-9daa-ee90c269cec3.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z7949346A565541B3C4FBZ/45/_/1780306543/ec0e7e0c-e480-42d3-b7b2-9be980b15e1a.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z7949346A565541B3C4FBZ/45/_/1780306543/02be0aa5-15a9-4684-a3b6-1055ee07e2de.jpg?width=800"
+      ],
+      "latest": true,
+      "bestSelling": true,
+      "max": 5,
+      "productInformation": [
+        {
+          "title": "سرعة المعالج المركزي",
+          "value": "1.5 GHz"
+        },
+        {
+          "title": "الذاكرة الداخلية  ",
+          "value": "512 GB"
+        },
+        {
+          "title": "دقة الشاشة",
+          "value": "1920x1200"
+        },
+        {
+          "title": " نوع",
+          "value": "SSD"
+        },
+        {
+          "title": " نظام التشغيل",
+          "value": "دوس"
+        },
+        {
+          "title": "  حجم ذاكرة الوصول العشوائي",
+          "value": "16 GB"
+        },
+        {
+          "title": "     حجم الشاشة",
+          "value": "14 in"
+        },
+        {
+          "title": "      رقم إصدار المعالج/الجيل",
+          "value": "2nd Gen"
+        },
+        {
+          "title": "    نوع ذاكرة الوصول العشوائي",
+          "value": "DDR3L"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": " شاشة تلفزيون سمارت سامسونج ، مقاس 65 بوصة ، ليد ، دقة 4K UHD ، بريسيفر داخلي",
+      "price": 2683,
+      "discount": 20,
+      "cat_prefix": "tvs-projectors",
+      "img": [
+        "https://media.btech.com/catalogs/f/2/0/a/f20a8385d439f875f94496a4cf43269a67109511_65U8000H_006_Front_Titan_Gray__1__removebg_preview.png",
+        "https://media.btech.com/catalogs/9/0/a/f/90af6d466b4ced3051efb82f63f533fb2e04be0d_New_Project___2026_08_12T155253.500.jpg",
+        "https://media.btech.com/catalogs/d/f/5/2/df52000618ec23c02488120bd172f82811489339_New_Project___2026_08_12T155234.224.jpg",
+        "https://media.btech.com/catalogs/f/8/1/8/f8182cea10b50734c1fb1dddde897dcdb792bc43_New_Project___2026_08_12T155244.510.jpg"
+      ],
+      "max": 1,
+      "latest": false,
+      "bestSelling": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": " البراند",
+          "value": "    سامسونج  "
+        },
+        {
+          "title": "   نوع الشاشة",
+          "value": " ليد"
+        },
+        {
+          "title": "     الدقة",
+          "value": "2160x3840"
+        },
+        {
+          "title": "     بريموت كنترول",
+          "value": "نعم"
+        },
+        {
+          "title": "     بريموت كنترول",
+          "value": "نعم"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "1 كجم"
+        },
+        {
+          "title": " نوع الاتصال",
+          "value": "إيثرنت، واي فاي"
+        },
+        {
+          "title": " عدد منافذ HDMI",
+          "value": "3"
+        },
+        {
+          "title": "  ريسيفر داخلي",
+          "value": "  ريسيفر داخلي"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 65,
+      "title": "fd1062ne  Laptop with 15.6 Inch Full HD / Intel® Core™ Ultra 7 / 8 Gigabyte / 512 Gigabyte SSD / Intel Arc silver",
+      "price": 41999,
+      "discount": 17,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z799C7EFD70183A672BC5Z/45/_/1782992582/d5d65c9c-291f-45e2-9488-86a9959affb5.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z799C7EFD70183A672BC5Z/45/_/1782992582/9e5b1a29-8939-4560-9405-908714044a6f.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z799C7EFD70183A672BC5Z/45/_/1782992582/1b83c2a8-f0c0-4347-8bb7-2519539229bf.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z799C7EFD70183A672BC5Z/45/_/1782992582/b6c44774-2b4d-4acd-8753-d4cf37089666.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z799C7EFD70183A672BC5Z/45/_/1782992582/07a8f466-e54d-41f6-b5b0-cfb00dfca412.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": true,
+      "isOfferYouLike": false,
+      "max": 12,
+      "specifications": [
+        {
+          "title": " سرعة المعالج المركزي",
+          "value": "4.8 GHz  "
+        },
+        {
+          "title": "  الذاكرة الداخلية",
+          "value": "512 GB"
+        },
+        {
+          "title": "   دقة الشاشة",
+          "value": "1920x1080  "
+        },
+        {
+          "title": "   معدلات التحديث",
+          "value": "144 هرتز"
+        },
+        {
+          "title": "    نوع ذاكرة الوصول العشوائي",
+          "value": "DDR5 "
+        },
+        {
+          "title": "   حجم الشاشة  ",
+          "value": "15.6 in "
+        },
+        {
+          "title": "    عدد النواة  ",
+          "value": "16 نواة"
+        },
+        {
+          "title": "  رقم إصدار المعالج/الجيل ",
+          "value": "Core 7 150U "
+        },
+        {
+          "title": "    نظام التشغيل  ",
+          "value": "دوس "
+        },
+        {
+          "title": "    سلسلة النماذج  ",
+          "value": "HP CF Series"
+        },
+        {
+          "title": "   ذاكرة الجرافيك ",
+          "value": "6 GB"
+        },
+        {
+          "title": "    حجم ذاكرة الوصول العشوائي",
+          "value": "8   GB "
+        },
+        {
+          "title": "    لغة لوحة المفاتيح",
+          "value": "الإنجليزية/العربية"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "جهاز ألعاب بلايستيشن 4 سعة 1 تيرابايت مع ذراع تحكم بلون أسود جيت",
+      "price": 31999,
+      "discount": 8,
+      "cat_prefix": "PlayStation",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZDF8283537BABF6FA16F1Z/45/_/1780465960/d44ee1ed-cc46-4af9-a72c-3c8e59aff5f9.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZDF8283537BABF6FA16F1Z/45/_/1780465960/3166a248-564e-4e99-b1cd-469c683b2530.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZDF8283537BABF6FA16F1Z/45/_/1780465960/c5380ec3-9c48-41a9-bcf3-42dc4291ed91.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZDF8283537BABF6FA16F1Z/45/_/1780465960/a6e95e48-f247-46fe-8ad4-87e6a8b209c4.jpg?width=800"
+      ],
+      "bestSelling": true,
+      "latest": true,
+      "isOfferYouLike": false,
+      "max": 10,
+      "specifications": [
+        {
+          "title": "نوع الجهاز",
+          "value": "PlayStation 5 Slim Digital"
+        },
+        {
+          "title": "نوع وحدة التخزين",
+          "value": "SSD"
+        },
+        {
+          "title": "سعة التخزين",
+          "value": "1 TB"
+        },
+        {
+          "title": "محرك الأقراص",
+          "value": "بدون محرك أقراص"
+        },
+        {
+          "title": "دقة العرض",
+          "value": "حتى 4K"
+        },
+        {
+          "title": "معدل التحديث",
+          "value": "حتى 120 Hz"
+        },
+        {
+          "title": "اللون",
+          "value": "أبيض"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "راديو اف ام جولون ، اسود - RX-606AC",
+      "price": 415,
+      "discount": 12,
+      "cat_prefix": "electronics",
+      "img": [
+        "https://media.btech.com/catalogs/d/1/8/b/d18b8ef9030e91dc2d1075c7210da886a1f30e85_710mbkc421l._ac_sl1500_.jpg",
+        "https://media.btech.com/catalogs/4/9/f/e/49fefa4aaa7d21bd074b749d7f03c9f05a610ebb_golon_606ac.jpg",
+        "https://media.btech.com/catalogs/0/7/a/2/07a21b5826ddab9d67ecd0b906fa0719f3f1d136_golon_606ac_1.jpg",
+        "https://media.btech.com/catalogs/1/0/9/8/109838190496b210e8dffdd23bb0813380ada09c_golon_606ac_11.jpg"
+      ],
+      "max": 5,
+      "latest": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": "البراند",
+          "value": " جولون "
+        },
+        {
+          "title": " اسم المنتج",
+          "value": "  راديو جولون كلاسيك كهربائي - RX-606AC "
+        },
+        {
+          "title": " رقم الموديل",
+          "value": " RX-606AC  "
+        },
+        {
+          "title": "طباعة من خلال الموبايل",
+          "value": " متوفر "
+        },
+        {
+          "title": " وزن المنتج",
+          "value": " 1 كجم   "
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 28,
+      "title": "X9d 5G ثنائي الشريحة 12 جيجابايت RAM 256 جيجابايت بني محمر - نسخة الشرق الأوسط",
+      "price": 23900,
+      "discount": 7,
+      "cat_prefix": "mobile-tablets",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z687AC94F0129990B2058Z/45/_/1780572283/e9dd3950-227f-4dff-b5a7-770efe53bf74.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z687AC94F0129990B2058Z/45/_/1780572284/30b33dc3-2637-4ed5-9a60-af2d0175cc62.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z687AC94F0129990B2058Z/45/_/1780572284/26687b22-cb02-463f-91e9-5f7f86d85b96.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z687AC94F0129990B2058Z/45/_/1780572283/1c661678-aaf5-4d89-8a53-a32c8a12c260.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z687AC94F0129990B2058Z/45/_/1780572283/aab21748-387b-4582-909c-aefd2e109886.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z687AC94F0129990B2058Z/45/_/1780572284/008c89e4-1f36-494f-a054-a38efb6c6ad1.jpg?width=800"
+      ],
+      "max": 4,
+      "latest": false,
+      "bestSelling": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": " نوع الذاكرة",
+          "value": "  بدون ذاكرة قابلة للزيادة"
+        },
+        {
+          "title": "   عدد شريحة Sim ",
+          "value": "مزدوج الشريحة"
+        },
+        {
+          "title": "     حجم ذاكرة الوصول العشوائي",
+          "value": "12 GB"
+        },
+        {
+          "title": "      الذاكرة الداخلية",
+          "value": "256 GB"
+        },
+        {
+          "title": "      حجم الشاشة",
+          "value": "6.7 in"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "190 g"
+        },
+        {
+          "title": " الإصدار",
+          "value": "نسخة الشرق الأوسط"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "190 g"
+        },
+        {
+          "title": "   دقة الكاميرا الأساسية",
+          "value": "50 MP "
+        },
+        {
+          "title": "  دقة الشاشة",
+          "value": "  1200x2000"
+        },
+        {
+          "title": " دقة الكاميرا الأساسية ",
+          "value": "8 MP"
+        },
+        {
+          "title": " نظام التشغيل ",
+          "value": "أندرويد "
+        },
+        {
+          "title": "  خصائص مقاومة المياه/الغبار   ",
+          "value": "مقاوم للماء والغبار "
+        },
+        {
+          "title": "  اسم المعالج  ",
+          "value": " كوالكوم سناب دراجون"
+        },
+        {
+          "title": " حجم البطارية ",
+          "value": " 8300 mAh"
+        },
+        {
+          "title": " نوع الشحن",
+          "value": "نوع C"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 78,
+      "title": " مضخة مياه كهربائية محمولة للجالونات والعبوات الكبيرة، موزع مياه أوتوماتيكي بضغطة واحدة، قابلة للشحن USB، للمنزل والمكتب",
+      "price": 215,
+      "discount": 5,
+      "cat_prefix": "small-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZD08A771F1055054BC65BZ/45/_/1790631028/73331434-0f01-42ce-a923-9e5f818779ca.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZD08A771F1055054BC65BZ/45/_/1790631027/8e9ff94d-9ecc-4c58-a14e-21685eefe9fc.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZD08A771F1055054BC65BZ/45/_/1790631028/9265a680-bd41-47b3-92d4-33667589206c.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZD08A771F1055054BC65BZ/45/_/1790631028/ca1cf69e-1936-4947-aa2d-30bb12729946.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZD08A771F1055054BC65BZ/45/_/1790631028/7652b983-8f0c-47f3-b8e3-d5087256d849.jpg?width=800"
+      ],
+      "max": 8,
+      "productInformation": [
+        {
+          "title": "مضخة مياه ",
+          "value": "كهربائية أوتوماتيكية"
+        },
+        {
+          "title": " تشغيل ",
+          "value": "  عبر USB"
+        },
+        {
+          "title": " تصميم  ",
+          "value": " محمول"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "ثلاجة جنبًا إلى جنب - نوفروست - 525 لترًا - تقنية هارفيست فريش - ضاغط عاكس ProSmart - موزع مياه وثلج مباشر - تحكم أمامي بمصابيح LED - GN166130XB",
+      "price": 62499,
+      "discount": 20,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z619E57A0006A4895D4D3Z/45/_/1779791439/6b9bc765-ca4b-4b40-99e5-af745e1e37cb.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z619E57A0006A4895D4D3Z/45/_/1779791439/f43aa235-b61b-4769-98c0-1203b8665b4d.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z619E57A0006A4895D4D3Z/45/_/1779791439/7ed009a9-da37-40c8-b4a8-48bc3076434e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z619E57A0006A4895D4D3Z/45/_/1779791441/b77cc908-5960-4cd9-9f98-ee1c44856fd6.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z619E57A0006A4895D4D3Z/45/_/1779791439/2601d633-1729-4e45-ae73-3ae18453ef19.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z619E57A0006A4895D4D3Z/45/_/1779791441/dd399554-b178-4252-894b-65d7fa66a8b2.jpg?width=800"
+      ],
+      "max": 1,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": "  Prinbia"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "7287547932"
+        },
+        {
+          "title": "    طول المنتج",
+          "value": "70.5 cm"
+        },
+        {
+          "title": "  تصميم باب الثلاجة",
+          "value": "جنباً إلى جنب"
+        },
+        {
+          "title": "  السعة الصافية للثلاجة",
+          "value": "157 L"
+        },
+        {
+          "title": " اسم الموديل ",
+          "value": "Side by Side"
+        },
+        {
+          "title": "  ارتفاع المنتج ",
+          "value": "179 cm"
+        },
+        {
+          "title": " عرض المنتج",
+          "value": "91 cm "
+        },
+        {
+          "title": "  تكنولوجيا",
+          "value": "إنفرتر"
+        },
+        {
+          "title": "السعة الإجمالية للثلاجة",
+          "value": "368 L"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 3,
+      "title": "مكيف انفرتر من يونيون اير بقوة 1.5 حصان للتبريد فقط - طراز أرتيفاي - INV-ARTO012C",
+      "price": 19400,
+      "discount": 18,
+      "cat_prefix": "air-conditioners",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z6D3253804AE5C5564BA4Z/45/_/1784619945/b38962d6-62c0-4f05-9e1f-722a75060e75.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z4E76131F1AAA7134D69CZ/45/_/1780732890/1ad4e524-f3e8-4ba5-9948-b668a3e2395c.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0857F555E5BE64CA9098Z/45/_/1784618755/42a44ece-faa2-448e-ad1b-3ed22f198d2a.jpg?width=800"
+      ],
+      "max": 8,
+      "productInformation": [
+        {
+          "title": "التثبيت",
+          "value": "وحدة منفصلة"
+        },
+        {
+          "title": "سعة التبريد",
+          "value": " 1.5 hp"
+        },
+        {
+          "title": " تكنولوجيا",
+          "value": " إنفرتر"
+        },
+        {
+          "title": " ارتفاع المنتج",
+          "value": " 25 cm"
+        },
+        {
+          "title": "  عرض المنتج",
+          "value": "  45 cm"
+        },
+        {
+          "title": "   عمق المنتج",
+          "value": "90 cm"
+        }
+      ],
+      "isOfferYouLike": true
+    },
+    {
+      "id": 10,
+      "title": "ASUS Vivobook 16 X1607CA-MB117W Intel Core Ultra 7 255H (up to 5.1 GHz, 16 cores, 16 Threads), 1TB M.2 NVMe™ PCIe® 4.0 SSD 16GB DDR5 Ram Intel Arc Graphics 16'' Inch WUXGA (1920 x 1200) 16:10 aspect ratio, IPS-level Panel, LED Backlit, Refresh Rate:60Hz, 300nits, 45% NTSC- Windows® 11 Home - Cool Silver Cool Silver",
+      "price": 59781,
+      "discount": 17,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z388DC0D6B762C44C7DE5Z/45/_/1779791625/5021c539-b1f7-4146-a4ed-0949720c522e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z388DC0D6B762C44C7DE5Z/45/_/1779791625/96dfc74b-829e-407f-a1e5-363cce8a9958.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z388DC0D6B762C44C7DE5Z/45/_/1779791625/96dfc74b-829e-407f-a1e5-363cce8a9958.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z388DC0D6B762C44C7DE5Z/45/_/1779791625/7e47c7dc-4812-4b4f-b470-741e777d1ae5.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z388DC0D6B762C44C7DE5Z/45/_/1779791625/e764f32c-6ee6-4b4a-9c8f-78d0f769e4eb.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z388DC0D6B762C44C7DE5Z/45/_/1779791625/e764f32c-6ee6-4b4a-9c8f-78d0f769e4eb.jpg?width=800"
+      ],
+      "bestSelling": true,
+      "max": 6,
+      "productInformation": [
+        {
+          "title": "سرعة المعالج المركزي",
+          "value": "1.5 GHz"
+        },
+        {
+          "title": "الذاكرة الداخلية  ",
+          "value": "512 GB"
+        },
+        {
+          "title": "دقة الشاشة",
+          "value": "1920x1200"
+        },
+        {
+          "title": " نوع",
+          "value": "SSD"
+        },
+        {
+          "title": " نظام التشغيل",
+          "value": "دوس"
+        },
+        {
+          "title": "  حجم ذاكرة الوصول العشوائي",
+          "value": "16 GB"
+        },
+        {
+          "title": "     حجم الشاشة",
+          "value": "14 in"
+        },
+        {
+          "title": "      رقم إصدار المعالج/الجيل",
+          "value": "2nd Gen"
+        },
+        {
+          "title": "    نوع ذاكرة الوصول العشوائي",
+          "value": "DDR3L"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "باد 10 رمادي 8 جيجابايت رام 256 جيجابايت واي فاي، مع لوحة مفاتيح مجانية - النسخة الشرق أوسطية",
+      "price": 22900,
+      "discount": 17,
+      "cat_prefix": "mobile-tablets",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z053376BAD3B88B24174BZ/45/_/1788422046/f56e536e-7afc-4eb7-a457-a2d4d0f6868b.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z053376BAD3B88B24174BZ/45/_/1788422046/7ae8c7ff-0304-4a73-9cae-370069726526.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z053376BAD3B88B24174BZ/45/_/1788422046/70f8a8d8-de52-4933-9a87-378c55a91c08.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z053376BAD3B88B24174BZ/45/_/1788422046/aa1f5276-8705-412a-9d30-31fbc81bd244.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z053376BAD3B88B24174BZ/45/_/1788422046/04b7781d-6af1-47e5-bb76-1512f47c602e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z053376BAD3B88B24174BZ/45/_/1788422046/6332a046-432f-465c-aeee-0874bde3f124.jpg?width=800"
+      ],
+      "max": 2,
+      "latest": true,
+      "bestSelling": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": " نوع الذاكرة",
+          "value": "  بدون ذاكرة قابلة للزيادة"
+        },
+        {
+          "title": "   عدد شريحة Sim ",
+          "value": "بدون بطاقة هاتف "
+        },
+        {
+          "title": "     حجم ذاكرة الوصول العشوائي",
+          "value": "8 GB"
+        },
+        {
+          "title": "      الذاكرة الداخلية",
+          "value": "256 GB"
+        },
+        {
+          "title": "       عرض المنتج",
+          "value": "0.25 in"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "525 g"
+        },
+        {
+          "title": " الإصدار",
+          "value": "نسخة الشرق الأوسط"
+        },
+        {
+          "title": "   دقة الكاميرا الأساسية",
+          "value": "8 MP "
+        },
+        {
+          "title": "  دقة الشاشة",
+          "value": "  1620x1080"
+        },
+        {
+          "title": " دقة الكاميرا الأساسية ",
+          "value": "8 MP"
+        },
+        {
+          "title": " نظام التشغيل ",
+          "value": "أندرويد "
+        },
+        {
+          "title": "  خصائص مقاومة المياه/الغبار   ",
+          "value": "مقاوم للماء والغبار "
+        },
+        {
+          "title": "  اسم المعالج  ",
+          "value": " كوالكوم سناب دراجون"
+        },
+        {
+          "title": " حجم البطارية ",
+          "value": " 10100 mAh"
+        },
+        {
+          "title": " نوع الشحن",
+          "value": "نوع C"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "Hendry3-W09D, HEY3-W00"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 23,
+      "title": " شاشة تلفزيون بدون إطار ارماديللو ، مقاس 32 بوصة ، D LED ، دقة HD - موديل ARM32VA4N-25",
+      "price": 5203,
+      "discount": 20,
+      "cat_prefix": "tvs-projectors",
+      "img": [
+        "https://media.btech.com/catalogs/e/d/d/f/eddf8a6439abd251a39230b8aa8e775ef5351238_541f4dde76756135648933c5ec1be042489a5c85cd6ea5f45273fe5b2d3698cc.jpeg",
+        "https://media.btech.com/catalogs/f/7/e/b/f7ebad583eb850ec07eb61151143662736d8e41c_d1e1d4d2f2cd09b2c6158c504e86c08e5b36cab9a85e4011679ba3bc72580aad.jpeg",
+        "https://media.btech.com/catalogs/2/6/2/2/2622acc47108f2557f63b56d2b621f8c93fd3f4a_27ff3c9ffcd5a78e5e54a7ff0d9ffd2139090beccc110fa76b5586671e12c1ed.jpeg",
+        "https://media.btech.com/catalogs/3/a/9/6/3a961c0c8b1e43303b4e01779251dd2f37100955_e598dfeb31a034dcd59273af013ed22151a3c42ab15dab125a546899b15dff97.jpeg"
+      ],
+      "max": 2,
+      "latest": true,
+      "bestSelling": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": " البراند",
+          "value": "    ارماديللو  "
+        },
+        {
+          "title": "   نوع الشاشة",
+          "value": " D LED"
+        },
+        {
+          "title": "     الدقة",
+          "value": "1366x768"
+        },
+        {
+          "title": "     بريموت كنترول",
+          "value": "نعم"
+        },
+        {
+          "title": "     بريموت كنترول",
+          "value": "نعم"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "1 كجم"
+        },
+        {
+          "title": " نوع الاتصال",
+          "value": "إيثرنت، واي فاي"
+        },
+        {
+          "title": " عدد منافذ HDMI",
+          "value": "2"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "ARM32VA4N-25"
+        },
+        {
+          "title": "  عدد منافذ USB ",
+          "value": "2"
+        },
+        {
+          "title": "  ريسيفر داخلي",
+          "value": "   لا"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 5,
+      "title": "مكيف انفرتر من يونيون اير بقوة 1.5 حصان للتبريد فقط - طراز أرتيفاي - INV-ARTO012C",
+      "price": 19400,
+      "discount": 10,
+      "productInformation": [
+        {
+          "title": "المادة",
+          "value": "معدني "
+        },
+        {
+          "title": "نوع الضاغط",
+          "value": "ترددي "
+        },
+        {
+          "title": "تكنولوجيا",
+          "value": "إنفرتر "
+        },
+        {
+          "title": "سنة الصنع",
+          "value": "2026 "
+        },
+        {
+          "title": "التثبيت",
+          "value": "تثبيت على الحائط "
+        },
+        {
+          "title": "سمات",
+          "value": "رقمي"
+        },
+        {
+          "title": "رقم الموديل",
+          "value": "INV-ARTO012"
+        }
+      ],
+      "cat_prefix": "air-conditioners",
+      "img": [
+        "https://f.nooncdn.com/p/v1651672012/N53228999A_2.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z4E76131F1AAA7134D69CZ/45/_/1780732890/1ad4e524-f3e8-4ba5-9948-b668a3e2395c.jpg?width=800",
+        "https://f.nooncdn.com/p/v1651672012/N53228999A_3.jpg?width=800"
+      ],
+      "max": 5,
+      "latest": true,
+      "isOfferYouLike": true
+    },
+    {
+      "id": 83,
+      "title": "مبرد مياه 2حنفيه بارد وساخن اسود/فضي من جاك ",
+      "price": 6000,
+      "discount": 12,
+      "cat_prefix": "small-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z4D38D7F0FD233372B0A9Z/45/1767807734/1a890695-a7fe-44b6-bd2c-648c7bb8ea14.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z4D38D7F0FD233372B0A9Z/45/1758379679/ebaf1b3e-5893-4db1-8fba-4834c5b20266.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z4D38D7F0FD233372B0A9Z/45/1758379663/431cda7e-bad5-4547-b237-9657f64adae6.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z4D38D7F0FD233372B0A9Z/45/1758373961/053fa6f9-2fea-4e50-83da-51f3afaa1244.jpg?width=800"
+      ],
+      "max": 8,
+      "productInformation": [
+        {
+          "title": "  المادة ",
+          "value": " خليط معدني"
+        },
+        {
+          "title": "  اسم الموديل ",
+          "value": " 2225 "
+        },
+        {
+          "title": " عمق المنتج ",
+          "value": "39 cm"
+        },
+        {
+          "title": " عرض المنتج ",
+          "value": " 39 cm "
+        },
+        {
+          "title": " السعة ",
+          "value": "6 L"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "NGWD-2225"
+        },
+        {
+          "title": "  ارتفاع المنتج ",
+          "value": "90 cm"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "تكييف ارتيفاي ساخن و بارد - 1.5 حصان  طارز ارنيف",
+      "price": 20096,
+      "discount": 10,
+      "cat_prefix": "air-conditioners",
+      "img": [
+        "https://f.nooncdn.com/p/v1657621560/N52887754A_1.jpg?width=800",
+        "https://f.nooncdn.com/p/v1657621560/N52887754A_2.jpg?width=800",
+        "https://f.nooncdn.com/p/v1657621560/N52887754A_3.jpg?width=800",
+        "https://f.nooncdn.com/p/v1657621560/N52887754A_4.jpg?width=800 "
+      ],
+      "max": 9,
+      "productInformation": [
+        {
+          "title": "المادة  ",
+          "value": "معدني"
+        },
+        {
+          "title": "التثبيت  ",
+          "value": "وحدة منفصلة"
+        },
+        {
+          "title": "اللون  ",
+          "value": "أسود"
+        },
+        {
+          "title": "سعة التبريد  ",
+          "value": "1.5 hp"
+        },
+        {
+          "title": "الطاقة المستخدمة  ",
+          "value": "كهربائي"
+        },
+        {
+          "title": "سمات  ",
+          "value": "تدفئة وتبريد"
+        },
+        {
+          "title": "تكنولوجيا  ",
+          "value": "دون إنفرتر"
+        },
+        {
+          "title": "ارتفاع المنتج  ",
+          "value": "29 cm"
+        },
+        {
+          "title": "عرض المنتج  ",
+          "value": "81 cm "
+        },
+        {
+          "title": "القوة الكهربائية  ",
+          "value": "560 W"
+        }
+      ],
+      "isOfferYouLike": true
+    },
+    {
+      "id": 43,
+      "title": " السلسلة 6، موقد غاز، من الفولاذ المقاوم للصدأ",
+      "price": 20564,
+      "discount": 12,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZB835FD199856013DB002Z/45/_/1779705011/b1645121-b27f-4459-9ae1-4cca7adb805a.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZB835FD199856013DB002Z/45/_/1779705011/590ba88b-bd77-407c-8055-21a7490fd99b.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZB835FD199856013DB002Z/45/_/1779705011/6d956783-8c6f-4864-97a1-096c4a3a0812.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZB835FD199856013DB002Z/45/_/1779705011/4363c789-3215-4b3c-993c-9b621436260e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZB835FD199856013DB002Z/45/_/1779705011/fc5ace96-3920-48a8-86e5-17df49832cad.jpg?width=800"
+      ],
+      "max": 1,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": "  Stainless steel/black"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "HGP3I8W50S"
+        },
+        {
+          "title": "    طول المنتج",
+          "value": "95 cm"
+        },
+        {
+          "title": "  محتويات العلبة",
+          "value": "Gas Cooker with 5 Burners"
+        },
+        {
+          "title": "  ارتفاع المنتج",
+          "value": "880 mm"
+        },
+        {
+          "title": " اسم الموديل",
+          "value": "HGP3I8W50S"
+        },
+        {
+          "title": "  عمق المنتج",
+          "value": "71 cm"
+        },
+        {
+          "title": " عرض المنتج",
+          "value": "91 cm "
+        },
+        {
+          "title": "  اللون",
+          "value": "فضي"
+        },
+        {
+          "title": "  عرض المنتج",
+          "value": "99 cm"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 56,
+      "title": " كمبيوتر مكتبي إيليت 800G5 الكل في واحد بشاشة مقاس 23.8 بوصة ومعالج كور i5 وذاكرة رام سعة 8 جيجابايت ومحرك أقراص صلبة سعة 1 تيرابايت وبطاقة رسومات إنتل UHD اللغة الإنجليزية أسود  ",
+      "price": 10200,
+      "discount": 20,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z5B5827092F34CD0835E4Z/45/_/1780306563/b204b503-9350-474d-ac9d-bea0dd593648.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z5B5827092F34CD0835E4Z/45/_/1780306563/c5c08452-36dd-460d-9c61-a75bed275d75.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z5B5827092F34CD0835E4Z/45/_/1780306563/682e057d-0957-4d39-bcb9-de24d5199fa2.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": false,
+      "isOfferYouLike": false,
+      "max": 4,
+      "specifications": [
+        {
+          "title": "حجم ذاكرة الوصول العشوائي",
+          "value": "8 GB"
+        },
+        {
+          "title": "حجم الشاشة",
+          "value": "23.8 in"
+        },
+        {
+          "title": " نوع العرض",
+          "value": "WLED"
+        },
+        {
+          "title": "  نوع",
+          "value": "HDD"
+        },
+        {
+          "title": "  لغة لوحة المفاتيح",
+          "value": "اللغة الإنجليزية"
+        },
+        {
+          "title": "  اللون",
+          "value": "أسود"
+        },
+        {
+          "title": "  رقم إصدار المعالج/الجيل",
+          "value": "9th Gen"
+        },
+        {
+          "title": "  عدد النواة",
+          "value": "رباعي النواة"
+        },
+        {
+          "title": "  نظام التشغيل",
+          "value": " ويندوز"
+        },
+        {
+          "title": "  الذاكرة الداخلية",
+          "value": "1 TB"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "لابتوب ألعاب فيكتوس 15-fa2082wm بشاشة 15.6 بوصة بدقة Full HD (1920x1080)، مع معالج Core i5-13420H/ذاكرة RAM سعة 16GB DDR5/قرص SSD سعة 512GB/بطاقة رسومات Nvidia GeForce RTX 4050 بسعة 6GB/نظام Windows 11",
+      "price": 52674,
+      "discount": 17,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z12BC3CDD9FA47E8A5A71Z/45/_/1780306573/a923c8bf-eccb-4cc6-b2b8-87a3d9ede2c1.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z12BC3CDD9FA47E8A5A71Z/45/_/1780306573/d8e08b5b-adf5-43d0-aa54-77a433a02995.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z12BC3CDD9FA47E8A5A71Z/45/_/1780306573/b96e209f-b9d6-48db-b1c4-4c7c25d2c9bf.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z12BC3CDD9FA47E8A5A71Z/45/_/1780306573/2f090005-0e44-43af-8964-0fd5735027b3.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z12BC3CDD9FA47E8A5A71Z/45/_/1780306573/80697ba9-2217-4547-812a-abf64e19ed75.jpg?width=800"
+      ],
+      "bestSelling": true,
+      "max": 3,
+      "productInformation": [
+        {
+          "title": "سرعة المعالج المركزي",
+          "value": "1.5 GHz"
+        },
+        {
+          "title": "الذاكرة الداخلية  ",
+          "value": "512 GB"
+        },
+        {
+          "title": "دقة الشاشة",
+          "value": "1920x1200"
+        },
+        {
+          "title": " نوع",
+          "value": "SSD"
+        },
+        {
+          "title": " نظام التشغيل",
+          "value": "دوس"
+        },
+        {
+          "title": "  حجم ذاكرة الوصول العشوائي",
+          "value": "16 GB"
+        },
+        {
+          "title": "     حجم الشاشة",
+          "value": "14 in"
+        },
+        {
+          "title": "      رقم إصدار المعالج/الجيل",
+          "value": "2nd Gen"
+        },
+        {
+          "title": "    نوع ذاكرة الوصول العشوائي",
+          "value": "DDR3L"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "موزع مياه كهربائي بقدرة 638 وات وسعة 16 لتر NGWD-2225S أبيض",
+      "price": 6000,
+      "discount": 15,
+      "cat_prefix": "small-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pnsku/N44790609A/45/_/1716904951/ee285b77-93e6-47e3-b79c-c32d1e59c22d.jpg?width=800",
+        "https://f.nooncdn.com/p/pnsku/N44790609A/45/_/1695367298/46e347ec-8ec4-4cf5-8019-c666bfabffd5.jpg?width=800"
+      ],
+      "max": 8,
+      "productInformation": [
+        {
+          "title": "  المادة ",
+          "value": " خليط معدني"
+        },
+        {
+          "title": "  اسم الموديل ",
+          "value": " 2225 "
+        },
+        {
+          "title": " عمق المنتج ",
+          "value": "39 cm"
+        },
+        {
+          "title": " عرض المنتج ",
+          "value": " 39 cm "
+        },
+        {
+          "title": " السعة ",
+          "value": "6 L"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "NGWD-2225"
+        },
+        {
+          "title": "  ارتفاع المنتج ",
+          "value": "90 cm"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "      HP 200 G4 AiO 21.5 FHD / i5‑1235U / 8GB RAM / 512GB SSD / FreeDOS Black    ",
+      "price": 39999,
+      "discount": 12,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z04C89764A7B8B26BBC4AZ/45/_/1780306794/784a3e38-8581-42ab-b43a-22553167a3ca.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": false,
+      "isOfferYouLike": true,
+      "max": 3,
+      "specifications": [
+        {
+          "title": "حجم ذاكرة الوصول العشوائي",
+          "value": "8 GB"
+        },
+        {
+          "title": "حجم الشاشة",
+          "value": "21.5 in"
+        },
+        {
+          "title": " نوع العرض",
+          "value": "آي بي إس"
+        },
+        {
+          "title": "  نوع",
+          "value": "SSD"
+        },
+        {
+          "title": "  اللون",
+          "value": "Black"
+        },
+        {
+          "title": "  عدد النواة",
+          "value": "10 نواة"
+        },
+        {
+          "title": "  نظام التشغيل",
+          "value": "فري دوس"
+        },
+        {
+          "title": "  الذاكرة الداخلية",
+          "value": "SSD512 GB"
+        },
+        {
+          "title": "  إصدار المعالج",
+          "value": "كور i5-1235U"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": " كمبيوتر قيمنق احترافي - كيسة ألعاب مع معالج كور i5، كارت شاشة متطور، رام 16 جيجابايت، هارد 1 تيرابايت فائق السرعة، ويندوز 11 وواي فاي ",
+      "price": 47000,
+      "discount": 22,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z88DF576890A672BBAF92Z/45/_/1782630643/8080185b-28a6-4fd5-a525-13b8e2ecca09.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z88DF576890A672BBAF92Z/45/_/1782630643/9f59102f-162c-485c-83a0-8c71e7e37e22.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z88DF576890A672BBAF92Z/45/_/1782630658/c2864c6f-c8c4-4814-beab-41f3e7fdea97.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z88DF576890A672BBAF92Z/45/_/1782630658/dabde073-2dfa-45d0-b16a-855264cc7ad2.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z88DF576890A672BBAF92Z/45/_/1782630643/a8a4ee1a-226c-443a-9e47-a48983a7a78d.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": false,
+      "isOfferYouLike": false,
+      "max": 4,
+      "specifications": [
+        {
+          "title": "حجم ذاكرة الوصول العشوائي",
+          "value": "16 GB"
+        },
+        {
+          "title": "حجم الشاشة",
+          "value": "23.8 in"
+        },
+        {
+          "title": " نوع العرض",
+          "value": "LED"
+        },
+        {
+          "title": "  نوع",
+          "value": "SSD"
+        },
+        {
+          "title": "  لغة لوحة المفاتيح",
+          "value": "اللغة الإنجليزية"
+        },
+        {
+          "title": "  اللون",
+          "value": "أسود"
+        },
+        {
+          "title": "  رقم إصدار المعالج/الجيل",
+          "value": "9th Gen"
+        },
+        {
+          "title": "  عدد النواة",
+          "value": "9 النواة"
+        },
+        {
+          "title": "  نظام التشغيل",
+          "value": " ويندوز"
+        },
+        {
+          "title": "  الذاكرة الداخلية",
+          "value": "1 TB"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": " لوحة تبريد RGB 4 مراوح تحتوي على وسادة قدم غير قابلة للانزلاق مع منفذي USB وزر التحكم في المروحة لأجهزة الكمبيوتر المحمولة 390x280x28 مم - أسود",
+      "price": 639,
+      "discount": 22,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z7A121328E938A5358AEAZ/45/_/1783968237/bca69c59-2c46-4a27-a96d-606f13ec9ca9.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z7A121328E938A5358AEAZ/45/_/1783968237/60c30026-09ae-439f-9427-10cb54740fe6.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z7A121328E938A5358AEAZ/45/_/1783968237/a6670f5c-ecd8-4679-8b4e-542542dd886f.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z7A121328E938A5358AEAZ/45/_/1783968237/ce3b0578-7900-45b0-85a1-8afa23057e3e.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": false,
+      "isOfferYouLike": false,
+      "max": 4,
+      "specifications": [
+        {
+          "title": "رقم الموديل",
+          "value": "18"
+        },
+        {
+          "title": "ارتفاع المنتج ",
+          "value": "15 mm"
+        },
+        {
+          "title": "  عرض المنتج",
+          "value": "22 mm"
+        },
+        {
+          "title": " سمات ",
+          "value": " إلغاء الضوضاء النشط, إضاءة خلفية, صديق للبيئة, مريح, ألعاب"
+        },
+        {
+          "title": "  عدد منافذ الـ USB ",
+          "value": " 2"
+        },
+        {
+          "title": "  اللون",
+          "value": "06 ice"
+        },
+        {
+          "title": "طول المنتج",
+          "value": "49 mm"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": " لوحة مفاتيح وماوس لاسلكية كومبو، بطارية 2.4 جيجا هرتز، لوحة مفاتيح رفيعة وماوس 1600 نقطة في البوصة",
+      "price": 1000,
+      "discount": 10,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z0F5F5DD92DCD7492885CZ/45/1767807947/0254275a-d914-48f4-b477-605b950fa2e9.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0F5F5DD92DCD7492885CZ/45/1765920835/6e607de9-4ae0-4b81-a2e1-5ac75f8262bd.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0F5F5DD92DCD7492885CZ/45/1765920809/ebe4ae59-9bcb-47c4-930d-924bff98bf77.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": false,
+      "isOfferYouLike": false,
+      "max": 4,
+      "specifications": [
+        {
+          "title": "رقم الموديل",
+          "value": "SDECs"
+        },
+        {
+          "title": "لغه لوحه المفاتيح",
+          "value": "اللغة الإنجليزية"
+        },
+        {
+          "title": "  نوع التوصيل   ",
+          "value": "  لاسلكي  بليتوز"
+        },
+        {
+          "title": " سمات ",
+          "value": "سريع  ميكنيكل "
+        },
+        {
+          "title": "  عدد منافذ الـ USB ",
+          "value": " 2"
+        },
+        {
+          "title": "  اللون",
+          "value": "رصاصي ابيض"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "وحدة تحكم قرصية رفيعة لجهاز بلاي ستيشن 5 مع وحدة تحكم لاسلكية إضافية - رمادي مموه",
+      "price": 45998,
+      "discount": 7,
+      "cat_prefix": "PlayStation",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z4E84F7B80005B9C67725Z/45/_/1780467171/3ad35496-f94b-4880-8e17-d0f911bc5813.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z4E84F7B80005B9C67725Z/45/_/1780467171/33810d74-f9a0-4cce-928f-ea90f4100c68.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z4E84F7B80005B9C67725Z/45/_/1780467171/d88b9857-2d13-4f5e-9107-4b781ef3c541.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": true,
+      "isOfferYouLike": false,
+      "max": 7,
+      "specifications": [
+        {
+          "title": "نوع الجهاز",
+          "value": "PlayStation 5 Slim Digital"
+        },
+        {
+          "title": "سعة التخزين",
+          "value": "1 TB SSD"
+        },
+        {
+          "title": "محرك الأقراص",
+          "value": "بدون محرك أقراص"
+        },
+        {
+          "title": "دقة العرض",
+          "value": "4K"
+        },
+        {
+          "title": "معدل التحديث",
+          "value": "120 Hz"
+        },
+        {
+          "title": "الاتصال",
+          "value": "Wi-Fi / Bluetooth"
+        },
+        {
+          "title": "اللون",
+          "value": "أسود"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": " تكييف سبليت بارد وساخن- أسود، 2.25 حصان",
+      "price": 28999,
+      "discount": 0,
+      "cat_prefix": "air-conditioners",
+      "img": [
+        "https://f.nooncdn.com/p/v1657550974/N52887748A_1.jpg?width=800",
+        "https://f.nooncdn.com/p/v1657550974/N52887748A_2.jpg?width=800",
+        "https://f.nooncdn.com/p/v1657550974/N52887748A_3.jpg?width=800"
+      ],
+      "max": 2,
+      "productInformation": [
+        {
+          "title": "المادة",
+          "value": "معدني"
+        },
+        {
+          "title": "التثبيت ",
+          "value": "وحدة منفصلة"
+        },
+        {
+          "title": " الطاقة المستخدمة",
+          "value": "كهربائي"
+        },
+        {
+          "title": " سمات",
+          "value": "تدفئة وتبريد"
+        },
+        {
+          "title": " تكنولوجيا ",
+          "value": "دون إنفرتر"
+        },
+        {
+          "title": " اسم الموديل",
+          "value": "Air Conditioner-56"
+        },
+        {
+          "title": "ارتفاع المنتج ",
+          "value": "33 cm"
+        },
+        {
+          "title": "القوة الكهربائية",
+          "value": "600 W"
+        },
+        {
+          "title": "محتويات العلبة",
+          "value": "Conditioner"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Unionaire Aroma 19-inch fan INVUSF19SSR",
+      "price": 2899,
+      "discount": 0,
+      "cat_prefix": "small-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZD9EF4F629D702D2DB02DZ/45/_/1779368189/6d73791c-e11b-4426-bed7-38e94de2aad3.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZD9EF4F629D702D2DB02DZ/45/_/1779368189/3f5858ff-71a8-4fd4-8c54-837f3f4dddaa.jpg?width=800"
+      ],
+      "max": 8,
+      "productInformation": [
+        {
+          "title": " الطاقة المستخدمة ",
+          "value": " Electric"
+        },
+        {
+          "title": " رقم الموديل ",
+          "value": "  INVUSF19SSR "
+        },
+        {
+          "title": " عمق المنتج  ",
+          "value": " 40 cm"
+        },
+        {
+          "title": "  اسم الموديل  ",
+          "value": " Pedestal Fans"
+        },
+        {
+          "title": "  عرض المنتج  ",
+          "value": "48 cm"
+        },
+        {
+          "title": "   ارتفاع المنتج  ",
+          "value": "120 cm"
+        },
+        {
+          "title": "  عدد السرعات   ",
+          "value": "3 Speeds"
+        },
+        {
+          "title": "   القوة الكهربائية   ",
+          "value": "45 W"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": " كاميرا مراقبة داخلية لاسلكي غير محدد A9 ، اسود",
+      "price": 600,
+      "discount": 6,
+      "cat_prefix": "electronics",
+      "img": [
+        "https://media.btech.com/catalogs/a/8/1/1/a8114b07e14082bdcfe99852542c4e72a745dc45_18739a4e9644bbfcd54f6889d1cdf84717410da5433fb95a59cc1cd06a72b566.jpeg",
+        "https://media.btech.com/catalogs/a/8/1/1/a8114b07e14082bdcfe99852542c4e72a745dc45_18739a4e9644bbfcd54f6889d1cdf84717410da5433fb95a59cc1cd06a72b566.jpeg",
+        "https://media.btech.com/catalogs/8/f/2/f/8f2f8dd1632d8d704f95c3bd443c8fa778a27a60_d8791932e205095c536abeab7ddb6ec1e22fa3efe6e49097373ff7e8b3b82f5b.jpeg",
+        "https://media.btech.com/catalogs/3/d/2/e/3d2e8ffc94d6008e386f1658a48679df1584579c_96624743040ec3a307692844151f23ea801f9029f0128b380218bdb1b3e4a336.jpeg"
+      ],
+      "max": 5,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": " البراند",
+          "value": "   تي بي لينك "
+        },
+        {
+          "title": "    اسم الموديل",
+          "value": " A9 "
+        },
+        {
+          "title": "   رقم الموديل",
+          "value": " M7200"
+        },
+        {
+          "title": " وزن المنتج",
+          "value": "  1 كجم"
+        },
+        {
+          "title": "  الاتصال",
+          "value": "  لاسلكي "
+        },
+        {
+          "title": "  صيغة مقاطع الفيديو المصورة",
+          "value": "  1080 بكسل "
+        },
+        {
+          "title": "  متوافق مع",
+          "value": "  iOS واندرويد"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 80,
+      "title": "مكنسة2400 وات احمر من جاك متطوره",
+      "price": 3200,
+      "discount": 10,
+      "cat_prefix": "small-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z108227A982C22126471BZ/45/1767809110/0a0b7eb5-f808-4d56-9bdc-61f14cd12856.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z108227A982C22126471BZ/45/_/1725625326/74a64722-7c5f-4313-b261-3d4119395b52.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z108227A982C22126471BZ/45/_/1725625336/37ce3b77-1de9-4078-a358-86ee756cc62b.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z108227A982C22126471BZ/45/_/1725625356/8c9b675a-b94f-4396-944e-d7f18c330a69.jpg?width=800"
+      ],
+      "max": 8,
+      "productInformation": [
+        {
+          "title": "  التثبيت ",
+          "value": " غير مثبت"
+        },
+        {
+          "title": "  السعة ",
+          "value": "  5 L "
+        },
+        {
+          "title": "  الطاقة المستخدمة  ",
+          "value": "كهربائي"
+        },
+        {
+          "title": " الحد الأقصى لوقت التشغيل",
+          "value": " 30 M "
+        },
+        {
+          "title": "   رقم الموديل  ",
+          "value": "NGV-24DS"
+        },
+        {
+          "title": "   طول المنتج ",
+          "value": "50 cm"
+        },
+        {
+          "title": "  قوة الشفط  ",
+          "value": "360 Pa"
+        },
+        {
+          "title": " القوة الكهربائية ",
+          "value": "2400 W"
+        },
+        {
+          "title": "  نوع الأرضية ",
+          "value": "جاف"
+        },
+        {
+          "title": "  طول الحبل ",
+          "value": "5 m"
+        },
+        {
+          "title": "  مادة تصفية المكنسة",
+          "value": "مرشح القماش"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "تكييف 1.5 حصان بارد انفرتر- يونيون اير ارتفاي -INV-ARTO012",
+      "price": 19999,
+      "discount": 12,
+      "cat_prefix": "air-conditioners",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZF93F72F1EDB205B9FC7FZ/45/_/1784013976/98c2c457-bdf4-4481-abe6-6c30e486ce1c.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZF93F72F1EDB205B9FC7FZ/45/_/1784015596/c0e15037-fd4e-4317-b0ed-df2e0e44ec04.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZF93F72F1EDB205B9FC7FZ/45/_/1784015628/05d4e6ee-ce3a-46b3-8e44-1a57480dc0a0.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZF93F72F1EDB205B9FC7FZ/45/_/1784015654/a0d9643f-020b-48e0-9bdd-ee2f7562433c.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZF93F72F1EDB205B9FC7FZ/45/_/1784015680/8426f0cb-c447-487b-a4cd-49e98d0a17cc.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZF93F72F1EDB205B9FC7FZ/45/_/1784015680/d2daf662-ca95-4858-bf02-52bad82dfa44.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZF93F72F1EDB205B9FC7FZ/45/_/1784015628/7dcec889-52a6-4462-8c87-98a8c559da22.jpg?width=800"
+      ],
+      "max": 3,
+      "productInformation": [
+        {
+          "title": "المادة",
+          "value": "معدني "
+        },
+        {
+          "title": "نوع الضاغط",
+          "value": "ترددي "
+        },
+        {
+          "title": "تكنولوجيا",
+          "value": "إنفرتر "
+        },
+        {
+          "title": "سنة الصنع",
+          "value": "2026 "
+        },
+        {
+          "title": "التثبيت",
+          "value": "تثبيت على الحائط "
+        },
+        {
+          "title": "سمات",
+          "value": "رقمي"
+        },
+        {
+          "title": "رقم الموديل",
+          "value": "INV-ARTO012"
+        }
+      ],
+      "isOfferYouLike": true
+    },
+    {
+      "id": 81,
+      "title": "مبرد مياة جاك 3 حنفية بالثلاجة بارد/ساخن /فاتر /لون فضي/ اسود مزود بثلاجة سفلي",
+      "price": 6000,
+      "discount": 15,
+      "cat_prefix": "small-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZE36983826C0EB895F05AZ/45/_/1772832006/2f4d155d-8015-418a-9c88-f78007184492.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZE36983826C0EB895F05AZ/45/_/1772832060/5205027d-27c7-4ef9-9883-91644d495ef6.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZE36983826C0EB895F05AZ/45/_/1772832097/f82dde58-8c95-4be6-8539-878e650105d8.jpg?width=800"
+      ],
+      "max": 8,
+      "productInformation": [
+        {
+          "title": "  المادة ",
+          "value": " خليط معدني"
+        },
+        {
+          "title": "  اسم الموديل ",
+          "value": " 2225 "
+        },
+        {
+          "title": " عمق المنتج ",
+          "value": "39 cm"
+        },
+        {
+          "title": " عرض المنتج ",
+          "value": " 39 cm "
+        },
+        {
+          "title": " السعة ",
+          "value": "6 L"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "NGWD-2225"
+        },
+        {
+          "title": "  ارتفاع المنتج ",
+          "value": "90 cm"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "قلاية هوائية XL - نافذة طهي شفافة، 13 طريقة طهي، 9 وظائف مسبقة، شاشة تعمل باللمس، تقنية الهواء السريع",
+      "price": 6900,
+      "discount": 7,
+      "cat_prefix": "small-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z3EA667C57F07DA7F33B7Z/45/_/1780913397/ee2ac02b-3dda-460b-854d-225dcb4bec1e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z3EA667C57F07DA7F33B7Z/45/_/1780913398/6f66e685-bdd2-47a7-9dde-065d0418db9a.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z3EA667C57F07DA7F33B7Z/45/_/1780913397/ab317fa9-7ea3-4d75-871e-0830afcdc95f.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z3EA667C57F07DA7F33B7Z/45/_/1780913398/04245f39-f1da-4d25-82a4-43d4492af386.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z3EA667C57F07DA7F33B7Z/45/_/1780913398/9d5b8fb8-8323-4f20-8ccf-c22b4039a911.jpg?width=800"
+      ],
+      "max": 8,
+      "productInformation": [
+        {
+          "title": "  المادة ",
+          "value": "  بلاستيك"
+        },
+        {
+          "title": "  اسم الموديل ",
+          "value": " NA230/00 "
+        },
+        {
+          "title": " طول  المنتج ",
+          "value": "15.9 cm"
+        },
+        {
+          "title": " عرض المنتج ",
+          "value": " 10.2 cm"
+        },
+        {
+          "title": " السعة ",
+          "value": "6.3 L"
+        },
+        {
+          "title": " التثبيت ",
+          "value": "يثبت على سطح المنضدة"
+        },
+        {
+          "title": " درجة حرارة قابلة للتعديل ",
+          "value": "بدون"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "NGWD-2225"
+        },
+        {
+          "title": " آمن للوضع في غسالة الأطباق ",
+          "value": "بدون"
+        },
+        {
+          "title": "  ارتفاع المنتج ",
+          "value": "12.1 cm"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "صانعة القهوة ريتش سبين برو بلس (قابلة للإزالة مع خزان مياه بسعة 1.3 لتر) 1-4 أكواب ",
+      "price": 7300,
+      "discount": 14,
+      "cat_prefix": "small-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZEDAF9FEA69903111173CZ/45/_/1777376410/de13b000-0e47-4728-89d9-17427a07681c.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZEDAF9FEA69903111173CZ/45/_/1777376410/a907a43f-d31b-4fab-9c87-fba989cb6c47.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZEDAF9FEA69903111173CZ/45/_/1777376410/d089bb13-5581-4621-85a7-75ff6c29f8fc.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZEDAF9FEA69903111173CZ/45/_/1777376410/a4a397a4-95d2-46fe-88f2-e4364a8a70ed.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZEDAF9FEA69903111173CZ/45/_/1777376410/2e43fb0c-25e0-460b-bf83-e5bd6ca5311e.jpg?width=800"
+      ],
+      "max": 8,
+      "productInformation": [
+        {
+          "title": "  المادة ",
+          "value": "  بلاستيك"
+        },
+        {
+          "title": "  اسم الموديل ",
+          "value": " NA230/00 "
+        },
+        {
+          "title": " طول  المنتج ",
+          "value": "15.9 cm"
+        },
+        {
+          "title": " عرض المنتج ",
+          "value": " 10.2 cm"
+        },
+        {
+          "title": " السعة ",
+          "value": "6.3 L"
+        },
+        {
+          "title": " التثبيت ",
+          "value": "يثبت على سطح المنضدة"
+        },
+        {
+          "title": " درجة حرارة قابلة للتعديل ",
+          "value": "بدون"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "NGWD-2225"
+        },
+        {
+          "title": " آمن للوضع في غسالة الأطباق ",
+          "value": "بدون"
+        },
+        {
+          "title": "  ارتفاع المنتج ",
+          "value": "12.1 cm"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": " (نسخة مطورة) لابتوب أومني بوك 5 القابل للتحويل مع شاشة WUXGA بحجم 14 بوصة، معالج كور 7 150U/ذاكرة RAM سعة 16 جيجابايت/قرص SSD سعة 512 جيجابايت/رسومات إنتل آرك/ويندوز 11 هوم إنجليزي فضي جليدي ",
+      "price": 54256,
+      "discount": 22,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZDE7FD444C302E2C5A050Z/45/_/1780306668/bdadef2c-dd3e-4280-942f-73511bd58516.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZDE7FD444C302E2C5A050Z/45/_/1780306667/a17d80d1-f9b8-49a6-b236-f82ed447811b.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZDE7FD444C302E2C5A050Z/45/_/1780306667/353d23e3-ea6f-4602-aedc-20d15a286fa7.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZDE7FD444C302E2C5A050Z/45/_/1780306667/80a96d78-426d-44e8-80be-909b662cf0ca.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZDE7FD444C302E2C5A050Z/45/_/1780306667/e6408f51-2f45-4dcc-82fa-9eee7defb5ab.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZDE7FD444C302E2C5A050Z/45/_/1780306667/3345d66f-0303-4727-8bff-434e55767132.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": false,
+      "isOfferYouLike": false,
+      "max": 12,
+      "specifications": [
+        {
+          "title": " سرعة المعالج المركزي",
+          "value": "5.4 GHz  "
+        },
+        {
+          "title": "  الذاكرة الداخلية",
+          "value": "512 GB"
+        },
+        {
+          "title": "   دقة الشاشة",
+          "value": "1920x1200"
+        },
+        {
+          "title": "   معدلات التحديث",
+          "value": "144 هرتز"
+        },
+        {
+          "title": "    نوع ذاكرة الوصول العشوائي",
+          "value": "LPDDR5 "
+        },
+        {
+          "title": "   حجم الشاشة  ",
+          "value": "15.6 in "
+        },
+        {
+          "title": "    عدد النواة  ",
+          "value": "10 نواة"
+        },
+        {
+          "title": "  رقم إصدار المعالج/الجيل ",
+          "value": "Core 7 150U "
+        },
+        {
+          "title": "    نظام التشغيل  ",
+          "value": "ويندوز "
+        },
+        {
+          "title": "    سلسلة النماذج  ",
+          "value": "HP CF Series"
+        },
+        {
+          "title": "   ذاكرة الجرافيك ",
+          "value": "6 GB"
+        },
+        {
+          "title": "    حجم ذاكرة الوصول العشوائي",
+          "value": "16 GB "
+        },
+        {
+          "title": "    لغة لوحة المفاتيح",
+          "value": "الإنجليزية/العربية"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "جهاز بلايستيشن 4 سعة 500 جيجابايت",
+      "price": 13999,
+      "discount": 12,
+      "cat_prefix": "PlayStation",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z02303CABDB5DBAC937EAZ/45/_/1780466051/1f701394-4c79-450b-bcce-9e8aff738c69.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z02303CABDB5DBAC937EAZ/45/_/1780466051/8c2e5068-6390-49c6-9477-0520982bb823.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z02303CABDB5DBAC937EAZ/45/_/1780466051/a30a022b-0144-4072-a672-36ccaeeb7fb7.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z02303CABDB5DBAC937EAZ/45/_/1780466051/5f66134f-dae5-4c7f-b60d-827fa4b1ef63.jpg?width=800"
+      ],
+      "bestSelling": true,
+      "latest": false,
+      "isOfferYouLike": true,
+      "max": 7,
+      "specifications": [
+        {
+          "title": "نوع الجهاز",
+          "value": "PlayStation 5"
+        },
+        {
+          "title": "سعة التخزين",
+          "value": "825 GB SSD"
+        },
+        {
+          "title": "محرك الأقراص",
+          "value": "Blu-ray Disc"
+        },
+        {
+          "title": "دقة العرض",
+          "value": "4K"
+        },
+        {
+          "title": "معدل التحديث",
+          "value": "حتى 120 Hz"
+        },
+        {
+          "title": "الذاكرة العشوائية",
+          "value": "16 GB GDDR6"
+        },
+        {
+          "title": "اللون",
+          "value": "أبيض"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "بلاي ستيشن 5 برو (النسخة الإماراتية) مع وحدة تحكم",
+      "price": 89999,
+      "discount": 10,
+      "cat_prefix": "PlayStation",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z5151DC66CC6D817EABEBZ/45/_/1780466877/c11ef393-03fb-4ca5-8a46-25df7edd87d6.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z5151DC66CC6D817EABEBZ/45/_/1780466877/daf160a9-9303-46e2-bc82-7794fdf88812.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z5151DC66CC6D817EABEBZ/45/_/1780466877/ce4e10ad-1ddb-476b-8131-10891f7c7380.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z5151DC66CC6D817EABEBZ/45/_/1780466877/2b79ac22-ff5a-4ac9-b6e5-e98219a14df3.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": false,
+      "isOfferYouLike": true,
+      "max": 9,
+      "specifications": [
+        {
+          "title": "نوع الجهاز",
+          "value": "PlayStation 4 Slim"
+        },
+        {
+          "title": "سعة التخزين",
+          "value": "1 TB HDD"
+        },
+        {
+          "title": "محرك الأقراص",
+          "value": "Blu-ray Disc"
+        },
+        {
+          "title": "دقة العرض",
+          "value": "1080p"
+        },
+        {
+          "title": "الذاكرة العشوائية",
+          "value": "8 GB GDDR5"
+        },
+        {
+          "title": "الاتصال",
+          "value": "Wi-Fi / Bluetooth"
+        },
+        {
+          "title": "اللون",
+          "value": "أسود"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "ماوس لاسلكي قابل لإعادة الشحن يعمل بالبلوتوث، ماوس متعدد الأوضاع مع ماوس ألعاب لاسلكي RGB 2.4G - M-13 Mint",
+      "price": 230,
+      "discount": 0,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z444227E908D7C9F32BB3Z/45/1747497573/bc4f9919-5658-4a39-a399-92ea0fd29735.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z444227E908D7C9F32BB3Z/45/1747497573/cb6dcb3e-3f31-47d0-b051-b7bc58baeb6e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z444227E908D7C9F32BB3Z/45/1747497576/dcd46849-93aa-4449-9d38-4f2345b7943e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z444227E908D7C9F32BB3Z/45/1747497572/f7867e01-1010-4118-8d4e-e2ecc432da2a.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z444227E908D7C9F32BB3Z/45/1747497573/cb6dcb3e-3f31-47d0-b051-b7bc58baeb6e.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": false,
+      "isOfferYouLike": false,
+      "max": 12,
+      "specifications": []
+    },
+    {
+      "id": 74,
+      "title": "جراب حماية وردي ليد التحكم بملمس محكم PS5",
+      "price": 220,
+      "discount": 5,
+      "cat_prefix": "PlayStation",
+      "img": [
+        "https://f.nooncdn.com/p/a86f09bcbd0f56c1b5c53e1c1c8f0d20%7Cpzsku/Z71E93BEB73F75CBDB0D3Z/45/1771278078/3558dca5-b76e-4044-96c5-007c0a7ca9f9.jpg?width=800",
+        "https://f.nooncdn.com/p/a86f09bcbd0f56c1b5c53e1c1c8f0d20%7Cpzsku/Z71E93BEB73F75CBDB0D3Z/45/1771278078/f0c45ead-c0f9-45cc-8a12-835c0bcad6ab.jpg?width=800",
+        "https://f.nooncdn.com/p/a86f09bcbd0f56c1b5c53e1c1c8f0d20%7Cpzsku/Z71E93BEB73F75CBDB0D3Z/45/1771278078/11eb83f2-2623-4040-b82a-46754924fafe.jpg?width=800",
+        "https://f.nooncdn.com/p/a86f09bcbd0f56c1b5c53e1c1c8f0d20%7Cpzsku/Z71E93BEB73F75CBDB0D3Z/45/1771278078/e7c59f34-c262-4c96-96e2-559808cf36c6.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": true,
+      "isOfferYouLike": true,
+      "max": 8,
+      "specifications": [
+        {
+          "title": "نوع الجهاز",
+          "value": "PlayStation 5 Slim Digital"
+        },
+        {
+          "title": "سعة التخزين",
+          "value": "825 GB SSD"
+        },
+        {
+          "title": "محرك الأقراص",
+          "value": "بدون محرك أقراص"
+        },
+        {
+          "title": "دقة العرض",
+          "value": "4K"
+        },
+        {
+          "title": "معدل التحديث",
+          "value": "120 Hz"
+        },
+        {
+          "title": "الذاكرة العشوائية",
+          "value": "16 GB GDDR6"
+        },
+        {
+          "title": "اللون",
+          "value": "أبيض"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "جراب حماية أسود ليد التحكم بملمس محكمPS5",
+      "price": 250,
+      "discount": 6,
+      "cat_prefix": "PlayStation",
+      "img": [
+        "https://f.nooncdn.com/p/a86f09bcbd0f56c1b5c53e1c1c8f0d20%7Cpzsku/Z54C7AD48C29911C7C97CZ/45/1771277703/e8c4d68b-5133-44ae-9035-f1ee9342e550.jpg?width=800",
+        "https://f.nooncdn.com/p/a86f09bcbd0f56c1b5c53e1c1c8f0d20%7Cpzsku/Z54C7AD48C29911C7C97CZ/45/1771277702/91205468-94f5-4dd0-aefb-33ff4231179f.jpg?width=800",
+        "https://f.nooncdn.com/p/a86f09bcbd0f56c1b5c53e1c1c8f0d20%7Cpzsku/Z54C7AD48C29911C7C97CZ/45/1771277702/c83b2639-9a90-43a7-9f29-ec11e76d708f.jpg?width=800",
+        "https://f.nooncdn.com/p/a86f09bcbd0f56c1b5c53e1c1c8f0d20%7Cpzsku/Z54C7AD48C29911C7C97CZ/45/1771277702/ce02464f-3393-41c0-b5f1-0d0bcdc5d319.jpg?width=800",
+        "https://f.nooncdn.com/p/a86f09bcbd0f56c1b5c53e1c1c8f0d20%7Cpzsku/Z54C7AD48C29911C7C97CZ/45/1771277702/7d668236-7d2a-4e7a-a1d1-09e5857838ee.jpg?width=800"
+      ],
+      "bestSelling": true,
+      "latest": false,
+      "isOfferYouLike": true,
+      "max": 4,
+      "specifications": [
+        {
+          "title": "نوع الجهاز",
+          "value": "PlayStation 5 Slim Special Edition"
+        },
+        {
+          "title": "سعة التخزين",
+          "value": "1 TB SSD"
+        },
+        {
+          "title": "محرك الأقراص",
+          "value": "Blu-ray Disc"
+        },
+        {
+          "title": "دقة العرض",
+          "value": "4K"
+        },
+        {
+          "title": "معدل التحديث",
+          "value": "حتى 120 Hz"
+        },
+        {
+          "title": "الاتصال",
+          "value": "Wi-Fi / Bluetooth"
+        },
+        {
+          "title": "اللون",
+          "value": "أسود وأحمر"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "كاميرا مراقبة سمارت واي فاي ايزفيز‎ TY1 برو ، ابيض - CS-TY1-R105-1J5WF",
+      "price": 4525,
+      "discount": 7,
+      "cat_prefix": "electronics",
+      "img": [
+        "https://media.btech.com/catalogs/a/b/3/4/ab3425347c2309e1e92d77db44441ff8679f599a_ezviz_ty1_pro_3k_ip_camera__1__1000x1000.png",
+        "https://media.btech.com/catalogs/6/c/4/a/6c4ada556c607bd0015ac6cb4101f6c2bd538fe8_imgi_11_moreshopping___ty1_pro_3k_2_130x__1_.jpg",
+        "https://media.btech.com/catalogs/6/1/0/3/6103306184b0e89a7b5480e222604e607264069f_imgi_18_247e6611da78965653e2e629d4fe4315.png",
+        "https://media.btech.com/catalogs/d/d/4/2/dd42cbdd61ca465bed94b8cca5b196d3c5cacec0_imgi_15_ty1_pro___3k_d6e76b91_0ff8_4581_bffc_a3ab13709fd3.png"
+      ],
+      "max": 5,
+      "latest": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": "اسم الموديل",
+          "value": " TY1 برو "
+        },
+        {
+          "title": " اسم المنتج",
+          "value": " كاميرا مراقبة ذكية ايزفيز TY1 برو ، بدقة 3K - CS-TY1-R105-1J5WF "
+        },
+        {
+          "title": " رقم الموديل",
+          "value": " CS-TY1-R105-1J5WF  "
+        },
+        {
+          "title": "الاتصال",
+          "value": " واي فاي "
+        },
+        {
+          "title": "الابعاد",
+          "value": "  88 x 88.2 x 119 ملم "
+        },
+        {
+          "title": "صيغة مقاطع الفيديو المصورة",
+          "value": "  3K (2880 × 1620 بكسل)"
+        },
+        {
+          "title": " وزن المنتج",
+          "value": " 1 كجم   "
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 70,
+      "title": "جهاز ألعاب ريترو 2.4G لاسلكي للتلفزيون مع 10000+ لعبة وذراعين تحكم وHDMI",
+      "price": 1380,
+      "discount": 15,
+      "cat_prefix": "PlayStation",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZD5D693B049B14153EF50Z/45/_/1786992772/9c353850-65af-4578-95d0-e26fdd3e294e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZD5D693B049B14153EF50Z/45/_/1786992772/9c353850-65af-4578-95d0-e26fdd3e294e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZD5D693B049B14153EF50Z/45/_/1786992772/d41e7641-3fb5-4787-b099-855357d0bc9a.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZD5D693B049B14153EF50Z/45/_/1786992772/206c648c-e94e-48ea-bafc-b8bfcbb7c688.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": false,
+      "isOfferYouLike": true,
+      "max": 6,
+      "specifications": [
+        {
+          "title": "نوع الجهاز",
+          "value": "PlayStation 4 Pro"
+        },
+        {
+          "title": "سعة التخزين",
+          "value": "1 TB HDD"
+        },
+        {
+          "title": "محرك الأقراص",
+          "value": "Blu-ray Disc"
+        },
+        {
+          "title": "دقة العرض",
+          "value": "4K"
+        },
+        {
+          "title": "الذاكرة العشوائية",
+          "value": "8 GB GDDR5"
+        },
+        {
+          "title": "معدل التحديث",
+          "value": "حتى 60 Hz"
+        },
+        {
+          "title": "اللون",
+          "value": "أسود"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "طابعة ليزر اتش بي ليزر جيت ، ابيض - MFP-M141W",
+      "price": 8402,
+      "discount": 10,
+      "cat_prefix": "electronics",
+      "img": [
+        "https://media.btech.com/catalogs/8/6/b/6/86b6610210b80bf6b2c792e1a0f785123158c6d1_b459d13308f09f96ee5be6ff1a7797008cdedd82a04fc3275b487f91b4543776.jpeg",
+        "https://media.btech.com/catalogs/7/1/2/a/712a758992d3df31dca49fec468de6b60c8e18ff_0801f7728ebdee5772934760b889d672334a53d3d3ca085050665c2144684ec1.jpeg",
+        "https://media.btech.com/catalogs/0/9/1/9/0919cb24a77b0615c29315389d9beb8a80b13725_b0fdcc3535d06b7666bbe6b2c274489569839e318e4826f232e88f10538167c0.jpeg",
+        "https://media.btech.com/catalogs/7/e/b/7/7eb7d92476b902ebbb155a821181a42c805993cf_e0e4f13d9d19383a99e17a238e47c05d3837c51c618575de49d7763eb11fef07.jpeg",
+        "https://media.btech.com/catalogs/e/d/6/9/ed69f67c47aef6f24b0cf871ffb71dd1a1faae60_B2000002630T.jpg"
+      ],
+      "max": 2,
+      "latest": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": " البراند",
+          "value": "  اتش بي  "
+        },
+        {
+          "title": " فاكس مدمج",
+          "value": " غير متوفر "
+        },
+        {
+          "title": " سكانر مدمج ",
+          "value": " متوفر "
+        },
+        {
+          "title": "طباعة من خلال الموبايل",
+          "value": " متوفر"
+        },
+        {
+          "title": " الابعاد",
+          "value": " 360 x 427 x 347 ملم"
+        },
+        {
+          "title": "رقم الموديل",
+          "value": "MFP-M141W"
+        },
+        {
+          "title": " اسم الموديل",
+          "value": "ليزر جيت"
+        },
+        {
+          "title": "  دقة الطباعة",
+          "value": " 600x600 نقطة لكل بوصة"
+        },
+        {
+          "title": "   انتاجية الطباعة",
+          "value": " 8000"
+        },
+        {
+          "title": "    سعة درج الاوراق الخارجة",
+          "value": " 100"
+        },
+        {
+          "title": " وزن المنتج",
+          "value": " 1 كجم   "
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 73,
+      "title": "وحدة تحكم ألعاب الفيديو المحمولة الرجعية R36S، سعة 64 جيجابايت، أزرق، مع شاشة IPS مقاس 3.5 بوصة",
+      "price": 2188,
+      "discount": 9,
+      "cat_prefix": "PlayStation",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z85FD518E40EB71A959E9Z/45/_/1782508953/92108533-cf54-43a8-8232-adb904d5cb8c.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z85FD518E40EB71A959E9Z/45/_/1782509208/860ed0ec-d353-4937-a30f-1819e3d38033.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z85FD518E40EB71A959E9Z/45/_/1782509208/d04c6363-841c-4aec-9618-ce1769b7e976.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z85FD518E40EB71A959E9Z/45/_/1782509208/936e8ae9-727b-48cb-82f5-af5816c3fc78.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z85FD518E40EB71A959E9Z/45/_/1782509208/94664578-238e-4d80-91cb-5c5162b2e1d6.jpg?width=800"
+      ],
+      "bestSelling": true,
+      "latest": true,
+      "isOfferYouLike": true,
+      "max": 6,
+      "specifications": [
+        {
+          "title": "نوع الجهاز",
+          "value": "PlayStation 5 Slim"
+        },
+        {
+          "title": "سعة التخزين",
+          "value": "1 TB SSD"
+        },
+        {
+          "title": "محرك الأقراص",
+          "value": "Blu-ray Disc"
+        },
+        {
+          "title": "دقة العرض",
+          "value": "4K"
+        },
+        {
+          "title": "معدل التحديث",
+          "value": "حتى 120 Hz"
+        },
+        {
+          "title": "الاتصال",
+          "value": "Wi-Fi / Bluetooth"
+        },
+        {
+          "title": "اللون",
+          "value": "أسود"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": " مشترك كهربائي اي لوك ، عدد 3منفذ ،اصفر",
+      "price": 169,
+      "discount": 12,
+      "cat_prefix": "electronics",
+      "img": [
+        "https://media.btech.com/catalogs/9/6/f/2/96f2772eb4ca56fd12d15088205f4a3bb992abe1_y_1_37.jpeg",
+        "https://media.btech.com/catalogs/a/4/c/d/a4cd62155572cff81f0254dd0db6affacd73a3d8_y_1_37.jpg",
+        "https://media.btech.com/catalogs/7/d/e/7/7de73358c757bc40d84568e4796be568e7909788_y_2_36.jpg",
+        "https://media.btech.com/catalogs/8/9/0/d/890d0cd6b9fabf611bccfc29a8e7ccc2a0a5d3d1_y_3_24.jpg",
+        "https://media.btech.com/catalogs/7/2/f/5/72f547e59dde95d85848f37454ee01f8960b9e6c_y_4_12.jpg"
+      ],
+      "max": 5,
+      "latest": true,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": " البراند",
+          "value": "  اي لوك "
+        },
+        {
+          "title": "  طول المنتج",
+          "value": " 1.5 سم "
+        },
+        {
+          "title": "  اسم المنتج",
+          "value": " مشترك كهربائي اي لوك ميني "
+        },
+        {
+          "title": " النوع ",
+          "value": " مشترك كهربائي"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 19,
+      "title": " راوتر تي بي لينك ، عدد 2 منفذ ، اسود - M7200",
+      "price": 2950,
+      "discount": 6,
+      "cat_prefix": "electronics",
+      "img": [
+        "https://media.btech.com/catalogs/b/9/7/2/b972495052bfda5e023307aa30f1d256ce523c0d_m7200_eu_1.0_01_large_1509007521135q.jpg",
+        "https://media.btech.com/catalogs/c/3/6/2/c362e5a1b2b5215f17da06581e0154affa07e2a1_m7200_eu_1.0_03_large_1509008225708u.jpg",
+        "https://media.btech.com/catalogs/9/0/2/4/902441b63e6f2266fffb3ccc078d1df19403af81_m7200_eu_1.0_02_large_1509007736083h.jpg",
+        "https://media.btech.com/catalogs/b/e/a/c/beace5aee7e1733bb6f4b9203e68f0948c081bfc_m7200_eu_1.0_04_large_1509010684169r.jpg",
+        "https://media.btech.com/catalogs/f/6/4/f/f64f3e7f4ef9c47cb0c582a030b09a453aa98ece_m7200_eu_1.0_05_large_1509010699825m.jpg"
+      ],
+      "max": 5,
+      "latest": true,
+      "bestSelling": true,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": " البراند",
+          "value": "   تي بي لينك "
+        },
+        {
+          "title": "   نوع المنفذ",
+          "value": " مايكرو USB"
+        },
+        {
+          "title": "   رقم الموديل",
+          "value": " M7200"
+        },
+        {
+          "title": " وزن المنتج",
+          "value": "  1 كجم"
+        },
+        {
+          "title": " عمر البطارية ",
+          "value": "  يصل إلى 8 ساعات "
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 50,
+      "title": "فرن كهربائي مع شواية ومروحة، سعة 55 لتر",
+      "price": 2399,
+      "discount": 12,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZA0DB15C717AB571A9C63Z/45/_/1787185440/055989d0-4e01-4b85-84aa-efe002ebdc9b.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZA0DB15C717AB571A9C63Z/45/_/1787185440/055989d0-4e01-4b85-84aa-efe002ebdc9b.jpg?width=800"
+      ],
+      "max": 4,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": "  black and silver"
+        },
+        {
+          "title": " التثبيت",
+          "value": " يثبت على سطح المنضدة"
+        },
+        {
+          "title": "  السعة",
+          "value": "55 L"
+        },
+        {
+          "title": "  الطاقة المستخدمة",
+          "value": "كهربائي"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "ak-of55l"
+        },
+        {
+          "title": "  القوة الكهربائية",
+          "value": "1800  W"
+        },
+        {
+          "title": "  ارتفاع المنتج",
+          "value": "48 cm"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 58,
+      "title": " جهاز كمبيوتر جيمنج تاور للألعاب مزود بمعالج كور i5/ ذاكرة رام 8 جيجابايت/محرك أقراص صلبة HDD سعة 1 تيرابايت+محرك أقراص صلبة Hybrid SSD سعة 256 جيجابايت/بطاقة رسوم إنفيديا جيفورس GTX 1650 سعة 6 جيجابايت مع كيبورد وماوس أسود",
+      "price": 33450,
+      "discount": 17,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/v1602503883/N40643454A_1.jpg?width=800",
+        "https://f.nooncdn.com/p/v1602503883/N40643454A_2.jpg?width=800",
+        "https://f.nooncdn.com/p/v1602503886/N40643454A_3.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": false,
+      "isOfferYouLike": false,
+      "max": 4,
+      "specifications": [
+        {
+          "title": "حجم ذاكرة الوصول العشوائي",
+          "value": "16 GB"
+        },
+        {
+          "title": "حجم الشاشة",
+          "value": "14 in"
+        },
+        {
+          "title": " نوع العرض",
+          "value": "LED"
+        },
+        {
+          "title": "  نوع",
+          "value": "SSD + HDD (مختلط)"
+        },
+        {
+          "title": "  ذاكرة الجرافيك  ",
+          "value": " 6 GB"
+        },
+        {
+          "title": "  اللون",
+          "value": "أسود"
+        },
+        {
+          "title": "  رقم إصدار المعالج/الجيل",
+          "value": "9th Gen"
+        },
+        {
+          "title": "  عدد النواة",
+          "value": "سداسي النواة (Hexa Core)"
+        },
+        {
+          "title": "  نظام التشغيل",
+          "value": " ويندوز"
+        },
+        {
+          "title": "   الرسومات الخارجية",
+          "value": " بطاقة الجرافيك"
+        },
+        {
+          "title": "  نوع ذاكرة الوصول العشوائي",
+          "value": " DDR4 "
+        },
+        {
+          "title": "  الذاكرة الداخلية",
+          "value": "1 TB"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "شاشة تلفزيون سمارت ال جي ، مقاس 55 بوصة ، ليد ، دقة نانو 4K UHD ، بريسيفر داخلي",
+      "price": 22093,
+      "discount": 25,
+      "cat_prefix": "tvs-projectors",
+      "img": [
+        "https://media.btech.com/catalogs/e/8/2/c/e82cc13aa60e8f0121c30c3991a53b554ebca14d_thum_1600x1062_7.jpeg",
+        "https://media.btech.com/catalogs/b/f/f/4/bff4e390bb66e0047f3928a253e4dbced489af4e_thum_1600x1062__3_.jpeg",
+        "https://media.btech.com/catalogs/1/1/f/c/11fc7390976cea9b83cbcc5c04dcc37cbabb5550_thum_1600x1062__4_.jpg",
+        "https://media.btech.com/catalogs/7/4/9/d/749df6aad91cbb11747a57279f919bd454eaa1ac_thum_1600x1062__6_.jpg",
+        "https://media.btech.com/catalogs/1/8/b/4/18b49ab0d8bb5c5da29aeb0376a463e35bc4f386_thum_1600x1062__3_.jpg"
+      ],
+      "max": 1,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": " البراند",
+          "value": "    ال جي  "
+        },
+        {
+          "title": "   نوع الشاشة",
+          "value": "ليد"
+        },
+        {
+          "title": "     الدقة",
+          "value": "2160x3840 "
+        },
+        {
+          "title": "     بريموت كنترول",
+          "value": "نعم"
+        },
+        {
+          "title": "     بريموت كنترول",
+          "value": "نعم"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "1 كجم"
+        },
+        {
+          "title": " نوع الاتصال",
+          "value": " سلكي، لاسلكي"
+        },
+        {
+          "title": " عدد منافذ HDMI",
+          "value": "3"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 26,
+      "title": "شاشة تلفزيون سمارت ال جي ، مقاس 55 بوصة ، ليد ، دقة نانو 4K UHD ، بريسيفر داخلي",
+      "price": 22093,
+      "discount": 25,
+      "cat_prefix": "tvs-projectors",
+      "img": [
+        "https://media.btech.com/catalogs/e/8/2/c/e82cc13aa60e8f0121c30c3991a53b554ebca14d_thum_1600x1062_7.jpeg",
+        "https://media.btech.com/catalogs/b/f/f/4/bff4e390bb66e0047f3928a253e4dbced489af4e_thum_1600x1062__3_.jpeg",
+        "https://media.btech.com/catalogs/1/1/f/c/11fc7390976cea9b83cbcc5c04dcc37cbabb5550_thum_1600x1062__4_.jpg",
+        "https://media.btech.com/catalogs/7/4/9/d/749df6aad91cbb11747a57279f919bd454eaa1ac_thum_1600x1062__6_.jpg",
+        "https://media.btech.com/catalogs/1/8/b/4/18b49ab0d8bb5c5da29aeb0376a463e35bc4f386_thum_1600x1062__3_.jpg"
+      ],
+      "max": 1,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": " البراند",
+          "value": "    ال جي  "
+        },
+        {
+          "title": "   نوع الشاشة",
+          "value": "ليد"
+        },
+        {
+          "title": "     الدقة",
+          "value": "2160x3840 "
+        },
+        {
+          "title": "     بريموت كنترول",
+          "value": "نعم"
+        },
+        {
+          "title": "     بريموت كنترول",
+          "value": "نعم"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "1 كجم"
+        },
+        {
+          "title": " نوع الاتصال",
+          "value": " سلكي، لاسلكي"
+        },
+        {
+          "title": " عدد منافذ HDMI",
+          "value": "3"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 14,
+      "title": " كاميرا مراقبة بوليت ميني منفذ تناظري HD (TVI / AHD / CVI / CVBS) هيك فيجن ، ابيض واسود - DS-2CE16K0T-LPFS",
+      "price": 1100,
+      "discount": 10,
+      "cat_prefix": "electronics",
+      "img": [
+        "https://media.btech.com/catalogs/c/5/2/9/c52967fff26f6fa6d5bd5b25f27e8e0fbb8455d2_______62_D0T_________2_.jpg",
+        "https://media.btech.com/catalogs/0/6/d/6/06d6f1754029c1e94a76d302a7d77f7b72bd7c8c_______62_D0T_________1_.png",
+        "https://media.btech.com/catalogs/2/9/7/7/29779e5f6c5e6524f277f8b05af5f4e9a64a106d_______62_D0T_________1_.png"
+      ],
+      "max": 6,
+      "latest": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": " البراند",
+          "value": "  هيك فيجن "
+        },
+        {
+          "title": " مصنوع (ة) من/ الخامة ",
+          "value": " بلاستيك "
+        },
+        {
+          "title": " الابعاد ",
+          "value": " 138.8 ملم × 70 ملم  "
+        },
+        {
+          "title": "الاتصال",
+          "value": "  منفذ تناظري HD (TVI / AHD / CVI / CVBS) "
+        },
+        {
+          "title": "رقم الموديل",
+          "value": "  88 x 88.2 x 119 ملم "
+        },
+        {
+          "title": "رقم الموديل",
+          "value": "DS-2CE16K0T-LPFS"
+        },
+        {
+          "title": " صيغة مقاطع الفيديو المصورة",
+          "value": "2960 (أفقي) × 1665 (رأسي)"
+        },
+        {
+          "title": " وزن المنتج",
+          "value": " 1 كجم   "
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 26,
+      "title": "سمارت 20 دوال سيم بولاريس تيتانيوم 4 جيجابايت رام 128 جيجابايت - نسخة الشرق الأوسط",
+      "price": 8964,
+      "discount": 10,
+      "cat_prefix": "mobile-tablets",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZBF9D9A3E6BFB7D4BD3AEZ/45/_/1779705310/51adbae3-fe9e-43ce-ba98-ace2bff959e9.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZBF9D9A3E6BFB7D4BD3AEZ/45/_/1779705310/5d9c20a9-4672-4a9a-b262-7174135cba8d.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZBF9D9A3E6BFB7D4BD3AEZ/45/_/1779705310/7a171ad1-7356-4aef-bfec-f777a27f83af.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZBF9D9A3E6BFB7D4BD3AEZ/45/_/1779705310/b2db2ca4-e9da-4c1f-820c-aa5a868e6272.jpg?width=800"
+      ],
+      "max": 1,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": " نوع الذاكرة",
+          "value": "       بطاقة بطاقة MicroSD"
+        },
+        {
+          "title": "   عدد شريحة Sim ",
+          "value": "مزدوج الشريحة"
+        },
+        {
+          "title": "     حجم ذاكرة الوصول العشوائي",
+          "value": "4 GB "
+        },
+        {
+          "title": "      الذاكرة الداخلية",
+          "value": "128 GB"
+        },
+        {
+          "title": "      حجم الشاشة",
+          "value": "6.78 cm"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "190 g"
+        },
+        {
+          "title": "  دقة الشاشة",
+          "value": "  1570x720"
+        },
+        {
+          "title": " دقة الكاميرا الأساسية ",
+          "value": "8 MP"
+        },
+        {
+          "title": " نظام التشغيل ",
+          "value": "أندرويد"
+        },
+        {
+          "title": " نوع الشحن",
+          "value": "نوع C"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 20,
+      "title": " كاميرا ديجيتال بدون مراة كانون EOS R10، دقة 25.5 ميجا بكسل، 18-45 ملم",
+      "price": 2950,
+      "discount": 6,
+      "cat_prefix": "electronics",
+      "img": [
+        "https://media.btech.com/catalogs/5/2/b/f/52bfd1675c478305ea5ab4604598b542ee5c5680_i1_adis_ws_canon_eos_r10_product_gallery_8_782fb408577b49ddae45a829b32571fe_1_.png",
+        "https://media.btech.com/catalogs/d/3/3/7/d3376c98a3e54b88cc81550248036ac80c840893_i1_adis_ws_canon_eos_r10_product_gallery_6_5417e1eb1df84a6daf6528d93fec328c_1_.png",
+        "https://media.btech.com/catalogs/1/a/1/8/1a186cf4be43e901dad6f2e921fb9db227d5b75c_i1_adis_ws_canon_eos_r10_product_gallery_8_782fb408577b49ddae45a829b32571fe.png",
+        "https://media.btech.com/catalogs/c/c/5/b/cc5b38c4a4194b896df16e41aaaa7dce4ce70080_i1_adis_ws_canon_eos_r10_product_gallery_6_5417e1eb1df84a6daf6528d93fec328c.png",
+        "https://media.btech.com/catalogs/d/2/0/3/d20381bd319394ffd3c436f4fb42628b279d294b_i1_adis_ws_canon_eos_r10_product_gallery_3_0a42cdc944a24aacbd6aa4d831cca42a_1_.png"
+      ],
+      "max": 1,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": " البراند",
+          "value": "    كانون  "
+        },
+        {
+          "title": "   الابعاد",
+          "value": "  122.5 x 87.8 x 83.4 ملم"
+        },
+        {
+          "title": "   عالج صورة",
+          "value": "  DIGIC X"
+        },
+        {
+          "title": " وزن المنتج",
+          "value": "  1 كجم"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 51,
+      "title": "فرن ميكروويف سعة 38 لترًا بقوة 1000 واط",
+      "price": 7195,
+      "discount": 11,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZE790C3F9764967A99253Z/45/_/1778769775/39d3ded8-822f-40bb-9539-61145a8db3c7.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZE790C3F9764967A99253Z/45/_/1778769775/0e0b7975-a4db-4618-8b0e-5b2b5801cbf6.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZE790C3F9764967A99253Z/45/_/1778769775/c78ec3cb-f596-4073-b05c-173312485fbe.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZE790C3F9764967A99253Z/45/_/1778769775/f7f168d1-9f8d-4d89-80d2-8423c05e67b3.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZE790C3F9764967A99253Z/45/_/1778769775/00d6cd18-671f-4628-8a00-0aa13c54dedf.jpg?width=800"
+      ],
+      "max": 4,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": "  silver"
+        },
+        {
+          "title": " التثبيت",
+          "value": " يثبت على سطح المنضدة"
+        },
+        {
+          "title": "  السعة",
+          "value": "38  L"
+        },
+        {
+          "title": "  الطاقة المستخدمة",
+          "value": "كهربائي"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "D100N38AP-ZB"
+        },
+        {
+          "title": "  القوة الكهربائية",
+          "value": "1000  W"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 62,
+      "title": "ماوس لاسلكي 2.4 جيجاهرتز، 2000 نقطة في البوصة، بصري صغير محمول مع مستقبل USB، 3 مستويات DPI قابلة للتعديل، 4 أزرار لأجهزة الكمبيوتر المحمولة والكمبيوتر الشخصي والكمبيوتر المحمول وماك بوك - أبيض",
+      "price": 220,
+      "discount": 0,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z0ECEB95FCA2A1430EBBBZ/45/1767808646/7fe071d9-5ed7-4432-aa39-041f3b29fa19.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0ECEB95FCA2A1430EBBBZ/45/1753286723/61fbad3d-4112-4836-97f9-e0779c9c23d3.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0ECEB95FCA2A1430EBBBZ/45/1753286661/6ef1b0c5-5d2b-4a58-b2ad-de82ea54292e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0ECEB95FCA2A1430EBBBZ/45/1753286662/9c5ced09-1fa9-40d7-ac47-6d4a59b24e27.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0ECEB95FCA2A1430EBBBZ/45/1753286662/d2259058-9ccc-444c-833f-9516e264c0bb.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0ECEB95FCA2A1430EBBBZ/45/1753286662/9c5ced09-1fa9-40d7-ac47-6d4a59b24e27.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": false,
+      "isOfferYouLike": false,
+      "max": 12,
+      "specifications": [
+        {
+          "title": "نوع التوصيل",
+          "value": "لاسلكي"
+        },
+        {
+          "title": " اسم الموديل",
+          "value": "HV-MS56GT"
+        },
+        {
+          "title": "  طريقة التتبع",
+          "value": "بصري"
+        },
+        {
+          "title": "   سمات",
+          "value": "ضوئي"
+        },
+        {
+          "title": "   رقم الموديل",
+          "value": "HV-MS56GT"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "     كمبيوتر مكتبي أوبتيبليكس طراز 9020Mt بمعالج إنتل كور I7 بذاكرة رام 16 جيجابايت ومحرك أقراص صلبة سعة 1 تيرابايت ونظام ويندوز 7 برو مع وسائط. شاشة مقاس 18.5 بوصة من ديل أسود   ",
+      "price": 10200,
+      "discount": 7,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z805A444D34530FD9507FZ/45/_/1780572290/a47aaf4c-21c5-444a-abae-e43057e6c2f8.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z805A444D34530FD9507FZ/45/_/1780572290/84f999ce-df25-445d-a704-cd78f7cf6170.jpg?width=800"
+      ],
+      "bestSelling": true,
+      "latest": true,
+      "isOfferYouLike": false,
+      "max": 4,
+      "specifications": [
+        {
+          "title": "حجم ذاكرة الوصول العشوائي",
+          "value": "16 GB"
+        },
+        {
+          "title": "حجم الشاشة",
+          "value": "18.5  in"
+        },
+        {
+          "title": " نوع العرض",
+          "value": "LED"
+        },
+        {
+          "title": "  نوع",
+          "value": "HDD"
+        },
+        {
+          "title": "  اللون",
+          "value": "أسود"
+        },
+        {
+          "title": "  عدد النواة",
+          "value": "10 نواة"
+        },
+        {
+          "title": "  نظام التشغيل",
+          "value": " ويندوز"
+        },
+        {
+          "title": "  الذاكرة الداخلية",
+          "value": "1 TB"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "X8d ثنائي الشريحة 4G أسود مخملي 8GB RAM 256GB - نسخة الشرق الأوسط",
+      "price": 17490,
+      "discount": 20,
+      "cat_prefix": "mobile-tablets",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZC168028BABEFF8252564Z/45/_/1780572146/147035d2-28a2-4905-9f84-caf9a481312a.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZC168028BABEFF8252564Z/45/_/1780572146/d22d2ae9-b651-455f-9de5-5ecb6ec8888f.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZC168028BABEFF8252564Z/45/_/1780572147/1ae8397c-3074-4a03-87f6-3739f35e5fab.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZC168028BABEFF8252564Z/45/_/1780572147/c253e21f-fd1a-4121-a181-e84474706b05.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZC168028BABEFF8252564Z/45/_/1780572147/521a7006-a28c-468b-bb9f-4aee5938ce56.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZC168028BABEFF8252564Z/45/_/1780572147/521a7006-a28c-468b-bb9f-4aee5938ce56.jpg?width=800"
+      ],
+      "max": 2,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": " نوع الذاكرة",
+          "value": "  بدون ذاكرة قابلة للزيادة"
+        },
+        {
+          "title": "   عدد شريحة Sim ",
+          "value": "  مزدوج الشريحة"
+        },
+        {
+          "title": "     حجم ذاكرة الوصول العشوائي",
+          "value": "8 GB"
+        },
+        {
+          "title": "      الذاكرة الداخلية",
+          "value": "256 GB"
+        },
+        {
+          "title": "       عرض المنتج",
+          "value": "0.25 in"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "525 g"
+        },
+        {
+          "title": " الإصدار",
+          "value": "نسخة الشرق الأوسط"
+        },
+        {
+          "title": "   دقة الكاميرا الأساسية",
+          "value": "8 MP "
+        },
+        {
+          "title": "  دقة الشاشة",
+          "value": "  2408×1080"
+        },
+        {
+          "title": " دقة الكاميرا الأساسية ",
+          "value": "8 MP"
+        },
+        {
+          "title": " نظام التشغيل ",
+          "value": "أندرويد "
+        },
+        {
+          "title": "  خصائص مقاومة المياه/الغبار   ",
+          "value": "مقاوم للماء والغبار "
+        },
+        {
+          "title": "  نوع المعالج  ",
+          "value": " Qualcomm Snapdragon 6s 4G Gen2 "
+        },
+        {
+          "title": " حجم البطارية ",
+          "value": " 7000 mAh"
+        },
+        {
+          "title": " نوع الشحن",
+          "value": "نوع C"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "LNA-LX2"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 31,
+      "title": "C100i Dual SIM 4GB RAM 128GB Dusk Gray 4G-Middle East Version",
+      "price": 8600,
+      "discount": 6,
+      "cat_prefix": "mobile-tablets",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z0AB28C25BCB27B185DACZ/45/_/1787234113/4385fecf-bb74-4aac-b693-207513187d76.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0AB28C25BCB27B185DACZ/45/_/1786371223/a9025ac2-8303-4ee2-871b-2e5cfb51dfc9.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0AB28C25BCB27B185DACZ/45/_/1786371223/aea37394-8449-4b80-8f3b-6c9dd4ff0f0e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0AB28C25BCB27B185DACZ/45/_/1786371223/963fe8f1-2024-4571-a4be-826078b82ca3.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0AB28C25BCB27B185DACZ/45/_/1786371223/d9ac97a1-509f-49e2-8403-f92c3b191d64.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0AB28C25BCB27B185DACZ/45/_/1786371223/d9ac97a1-509f-49e2-8403-f92c3b191d64.jpg?width=800"
+      ],
+      "max": 4,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": " نوع الذاكرة",
+          "value": "  بدون ذاكرة قابلة للزيادة"
+        },
+        {
+          "title": "   عدد شريحة Sim ",
+          "value": "  مزدوج الشريحة"
+        },
+        {
+          "title": "     حجم ذاكرة الوصول العشوائي",
+          "value": "4 GB"
+        },
+        {
+          "title": "      الذاكرة الداخلية",
+          "value": "128 GB"
+        },
+        {
+          "title": "       عرض المنتج",
+          "value": "6.8 in"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "525 g"
+        },
+        {
+          "title": " الإصدار",
+          "value": "نسخة الشرق الأوسط"
+        },
+        {
+          "title": "   دقة الكاميرا الأساسية",
+          "value": "8 MP "
+        },
+        {
+          "title": "  دقة الشاشة",
+          "value": "  2408×1080"
+        },
+        {
+          "title": " دقة الكاميرا الأساسية ",
+          "value": "8 MP"
+        },
+        {
+          "title": " نظام التشغيل ",
+          "value": "أندرويد "
+        },
+        {
+          "title": "  خصائص مقاومة المياه/الغبار   ",
+          "value": "مقاوم للماء والغبار "
+        },
+        {
+          "title": "  نوع المعالج  ",
+          "value": " Qualcomm Snapdragon 6s 4G Gen2 "
+        },
+        {
+          "title": " حجم البطارية ",
+          "value": " 7000 mAh"
+        },
+        {
+          "title": " نوع الشحن",
+          "value": "نوع C"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "LNA-LX2"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 32,
+      "title": "Mobile Motorola G35 5G 8GB Ram 256GB ROM Red",
+      "price": 11230,
+      "discount": 5,
+      "cat_prefix": "mobile-tablets",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z5C1585697F5353357227Z/45/_/1779704238/4a2222c0-e5a8-44cb-b9b8-c0f2ce3b17f3.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z5C1585697F5353357227Z/45/_/1779704238/e416d72e-e576-4f64-bae5-2cd3aac8f346.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z5C1585697F5353357227Z/45/_/1779704238/3b322bf1-dfb8-4fba-9d2e-34e00c615590.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z5C1585697F5353357227Z/45/_/1779704238/9f8f45e9-56e2-4875-a3b6-561abc56f7c0.jpg?width=800"
+      ],
+      "max": 4,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": " نوع الذاكرة",
+          "value": "  بدون ذاكرة قابلة للزيادة"
+        },
+        {
+          "title": "   عدد شريحة Sim ",
+          "value": "  مزدوج الشريحة"
+        },
+        {
+          "title": "     حجم ذاكرة الوصول العشوائي",
+          "value": "8 GB"
+        },
+        {
+          "title": "      الذاكرة الداخلية",
+          "value": "256 GB"
+        },
+        {
+          "title": "       عرض المنتج",
+          "value": "6.8 in"
+        },
+        {
+          "title": " الإصدار",
+          "value": "  النسخة الصينية"
+        },
+        {
+          "title": "   دقة الكاميرا الأساسية",
+          "value": "8 MP "
+        },
+        {
+          "title": " دقة الكاميرا الأساسية ",
+          "value": "8 MP"
+        },
+        {
+          "title": " نظام التشغيل ",
+          "value": "أندرويد "
+        },
+        {
+          "title": " حجم البطارية ",
+          "value": " 5000 mAh"
+        },
+        {
+          "title": " نوع الشحن",
+          "value": "نوع C"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "Moto G35"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 34,
+      "title": "مثبت جيمبال أوزمو موبايل 7 لهواتف آيفون وأندرويد، مع حامل ثلاثي، خفيف الوزن، قبضة مريحة، جيمبال هاتف ثلاثي المحاور، تتبع نشط 7.0، أدلة تصوير، تحرير بنقرة واحدة، استخدام لمدة 10 ساعات، شحن الهاتف",
+      "price": 4750,
+      "discount": 3,
+      "cat_prefix": "mobile-tablets",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z6E422EF35600B50C3CBFZ/45/_/1780572409/9d9daf7d-5a28-4c42-a2c0-9aa49189d594.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z6E422EF35600B50C3CBFZ/45/_/1780572412/1290b891-1f86-4685-8abb-a4656bd2f215.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z6E422EF35600B50C3CBFZ/45/_/1780572409/74aa39ce-f4c8-4563-b9e2-2c5129bb3ed1.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z6E422EF35600B50C3CBFZ/45/_/1780572409/b6b6478f-f2e6-43f2-9685-fee355a8d8b6.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z6E422EF35600B50C3CBFZ/45/_/1780572409/95debb20-7544-4a27-acfa-29fe1a7f4c97.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z6E422EF35600B50C3CBFZ/45/_/1780572409/f8edfefb-1300-47b7-8b3f-3997764262f4.jpg?width=800"
+      ],
+      "max": 5,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": "  Grey"
+        },
+        {
+          "title": " اسم الموديل",
+          "value": "    DS307"
+        },
+        {
+          "title": " بلد المنشأ",
+          "value": "الدانمارك"
+        },
+        {
+          "title": "     القوة الكهربائية",
+          "value": "22.5 W"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "  DS307"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 35,
+      "title": " كابل USB-C فائق التحمل 322 إلى USB-C (طول 3.3 قدم مضفر) كابل شحن سريع 60 واط USB C PD لأجهزة آبل وسامسونج وجوجل والمزيد   ",
+      "price": 138,
+      "discount": 0,
+      "cat_prefix": "mobile-tablets",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z0F0D95C413604FEFF781Z/45/1759222558/ebe044f5-beae-4efd-bf5d-42feda601fb8.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0F0D95C413604FEFF781Z/45/1759222558/57ab4571-a306-43ab-b049-33fc6e04853b.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0F0D95C413604FEFF781Z/45/1759222558/5f992aa7-1d34-46e0-9277-92d7c1a10e96.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0F0D95C413604FEFF781Z/45/1759222558/5f992aa7-1d34-46e0-9277-92d7c1a10e96.jpg?width=800  ",
+        "https://f.nooncdn.com/p/pzsku/Z0F0D95C413604FEFF781Z/45/1759222558/06d893d0-3e1b-4f0c-84b0-1a9266b50275.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z0F0D95C413604FEFF781Z/45/1759222558/ec1a5130-3547-479c-8a57-d9f0eb34fdc6.jpg?width=800"
+      ],
+      "max": 9,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": "  Black"
+        },
+        {
+          "title": " بلد المنشأ",
+          "value": "الصين"
+        },
+        {
+          "title": "     القوة الكهربائية",
+          "value": "22.60  W"
+        },
+        {
+          "title": "  نوع التوصيل   ",
+          "value": " USB من النوع C"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "A8752H11"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 37,
+      "title": " MatePad 12X إصدار PaperMatte باللون الأخضر 12GB 256GB واي فاي - النسخة المخصصة للشرق الأوسط مع لوحة مفاتيح مجانية",
+      "price": 37903,
+      "discount": 15,
+      "cat_prefix": "mobile-tablets",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z3EB2D7BEC4179361433AZ/45/_/1780572526/b625bf91-477a-4455-8d78-f6df5ed7dd68.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z3EB2D7BEC4179361433AZ/45/_/1780572526/a5a572d4-7665-4ab5-bea0-bc09781233f7.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z3EB2D7BEC4179361433AZ/45/_/1780572526/d75de604-fcf4-4b3f-83e9-aafb721baf60.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z3EB2D7BEC4179361433AZ/45/_/1780572526/a9c4e550-f088-4edf-9d32-0de15ecaae64.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z3EB2D7BEC4179361433AZ/45/_/1780572526/b5b9ace1-3c3d-4ae5-bf85-477cce561b7e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z3EB2D7BEC4179361433AZ/45/_/1780572526/f8106025-b42f-4757-9bba-a68ceec0786d.jpg?width=800"
+      ],
+      "max": 2,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": "دقة الكاميرا الثانوية",
+          "value": "  8 MP"
+        },
+        {
+          "title": "  حجم البطارية",
+          "value": "10100 mAh"
+        },
+        {
+          "title": "      حجم الشاشة",
+          "value": "12 in"
+        },
+        {
+          "title": " دقة الشاشة ",
+          "value": "2880 × 1440"
+        },
+        {
+          "title": "  نوع العرض ",
+          "value": "LCD"
+        },
+        {
+          "title": " نظام التشغيل  ",
+          "value": "HarmonyOS"
+        },
+        {
+          "title": "  الذاكرة الداخلية  ",
+          "value": "256 GB"
+        },
+        {
+          "title": " حجم ذاكرة الوصول العشوائي ",
+          "value": "12 GB"
+        },
+        {
+          "title": " نوع الشريحة",
+          "value": "بدون بطاقة هاتف"
+        },
+        {
+          "title": " دقة الكاميرا الأساسية",
+          "value": "50 MP"
+        },
+        {
+          "title": "   عدد شريحة Sim",
+          "value": " بدون بطاقة هاتف"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 24,
+      "title": " شاشة تلفزيون سمارت سامسونج ، مقاس 50 بوصة ، ليد ، دقة 4K UHD ، بريسيفر داخلي",
+      "price": 16400,
+      "discount": 20,
+      "cat_prefix": "tvs-projectors",
+      "img": [
+        "https://media.btech.com/catalogs/8/7/e/b/87ebff8813d9290dd2ef088fa61c4c9afca1f2ad_gu43du7179uxzg_006_front2_black_2.jpeg",
+        "https://media.btech.com/catalogs/e/0/1/e/e01ed3eaf0c787dc84d6205299a4e932a227f0cd_gu43du7179uxzg_004_l_side_black_2.jpg",
+        "https://media.btech.com/catalogs/f/7/c/7/f7c793226384645078dbb3fb55138427ba480049_4b8a540697d46ad0f5b97b1081d6d07c3001aa707c0b46ec62065b85b8c8172f.jpeg",
+        "https://media.btech.com/catalogs/a/6/2/7/a627d00fdcef01287ea3a5a92b34f14a8184eeb0_gu43du7179uxzg_005_detail_black_2.jpg",
+        "https://media.btech.com/catalogs/6/3/b/b/63bb36bdc2651ac655920d3c708eaa22b7c06314_gu43du7179uxzg_008_l_perspective2_black_2.jpg"
+      ],
+      "max": 2,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": " البراند",
+          "value": "    سامسونج  "
+        },
+        {
+          "title": "   نوع الشاشة",
+          "value": "ليد"
+        },
+        {
+          "title": "     الدقة",
+          "value": "2160x3840 "
+        },
+        {
+          "title": "     بريموت كنترول",
+          "value": "نعم"
+        },
+        {
+          "title": "     بريموت كنترول",
+          "value": "نعم"
+        },
+        {
+          "title": "  وزن المنتج",
+          "value": "1 كجم"
+        },
+        {
+          "title": " نوع الاتصال",
+          "value": " واي فاي 5، ايثرنت (LAN)"
+        },
+        {
+          "title": " عدد منافذ HDMI",
+          "value": "2"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "ARM32VA4N-25"
+        },
+        {
+          "title": "  عدد منافذ USB ",
+          "value": "2"
+        },
+        {
+          "title": "  ريسيفر داخلي",
+          "value": "   ريسيفر داخلي"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 41,
+      "title": "ثلاجة نوفروست يونيون إير 440 لتر ديجيتال بمتور انفرتر لون اسود زجاج URN-600LBG1A-DTHR",
+      "price": 18999,
+      "discount": 12,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZF2276CB88E857E8166B5Z/45/_/1771943010/e2f34279-272a-41c6-9974-db64f00cb7fa.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZF2276CB88E857E8166B5Z/45/_/1771943037/20072037-e672-4edd-b76c-0889947cb125.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZF2276CB88E857E8166B5Z/45/_/1771943099/703227a0-6cc4-46e2-aed5-1331eb22ea33.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZF2276CB88E857E8166B5Z/45/_/1771943099/703227a0-6cc4-46e2-aed5-1331eb22ea33.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZF2276CB88E857E8166B5Z/45/1757861014/0a2f41a7-6769-487e-bbbe-84a9a57f8ed8.jpg?width=800"
+      ],
+      "max": 1,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": "  اسود"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "URN600"
+        },
+        {
+          "title": "    طول المنتج",
+          "value": "179 cm"
+        },
+        {
+          "title": "  تصميم باب الثلاجة",
+          "value": "باب مزدوج"
+        },
+        {
+          "title": "  السعة الصافية للثلاجة",
+          "value": "440 L"
+        },
+        {
+          "title": " القوة الكهربائية",
+          "value": "45 W"
+        },
+        {
+          "title": "  ارتفاع المنتج ",
+          "value": "179 cm"
+        },
+        {
+          "title": " عرض المنتج",
+          "value": "91 cm "
+        },
+        {
+          "title": "  تكنولوجيا",
+          "value": "دون إنفرتر"
+        },
+        {
+          "title": "  سمات",
+          "value": "درجة حرارة قابلة للتعديل, منبه, إضاءة خلفية, عرض رقمي, تبريد سريع"
+        },
+        {
+          "title": "السعة الإجمالية للثلاجة",
+          "value": "440 L"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 36,
+      "title": " جالاكسي تاب A11+ 5G رمادي 8 جيجابايت رام 256 جيجابايت - نسخة الشرق الأوسط ",
+      "price": 18750,
+      "discount": 11,
+      "cat_prefix": "mobile-tablets",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z2197BCE7C2178D71591AZ/45/_/1772091161/6cbbf9d3-bb84-471d-bb1b-24417c0eec0b.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z2197BCE7C2178D71591AZ/45/_/1772091161/0fdbcd30-090c-4d04-ba75-b327346a6398.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z2197BCE7C2178D71591AZ/45/_/1772091161/e4c43dac-7fd6-4783-8d14-10c571f4d075.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z2197BCE7C2178D71591AZ/45/_/1772091162/ed0cf207-8ea5-489d-92cb-8f81a958bc78.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z2197BCE7C2178D71591AZ/45/_/1772091162/dc881119-2503-40f7-a087-add1396491a7.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z2197BCE7C2178D71591AZ/45/_/1772091162/b1e3a135-f69f-4b38-affd-561caf5c7bbe.jpg?width=800"
+      ],
+      "max": 2,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": "دقة الكاميرا الثانوية",
+          "value": "  5 MP"
+        },
+        {
+          "title": "  حجم البطارية",
+          "value": "7040 mAh"
+        },
+        {
+          "title": "      حجم الشاشة",
+          "value": "11 in"
+        },
+        {
+          "title": " دقة الشاشة ",
+          "value": "1200x2000"
+        },
+        {
+          "title": "  نوع العرض ",
+          "value": "LCD"
+        },
+        {
+          "title": " نظام التشغيل  ",
+          "value": "أندرويد"
+        },
+        {
+          "title": "  الذاكرة الداخلية  ",
+          "value": "256 GB"
+        },
+        {
+          "title": " حجم ذاكرة الوصول العشوائي ",
+          "value": "8 GB"
+        },
+        {
+          "title": " نوع الشريحة",
+          "value": "شريحة نانو + شريحة إلكترونية"
+        },
+        {
+          "title": " لاسلكي",
+          "value": "5G"
+        },
+        {
+          "title": "   عدد شريحة Sim",
+          "value": "مزدوج الشريحة"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 42,
+      "title": "بوتجاز غاز 5 شعلة كول ماكس اشعال ذاتي امان كامل ",
+      "price": 18499,
+      "discount": 7,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pnsku/N52535770A/45/_/1767607844/5abe4f47-5961-4ac6-a517-628bf171e08b.jpg?width=800",
+        "https://f.nooncdn.com/p/pnsku/N52535770A/45/_/1764242380/0df75ec4-0fd1-44c9-8698-c57d488421fc.jpg?width=800",
+        "https://f.nooncdn.com/p/pnsku/N52535770A/45/_/1764242380/0df75ec4-0fd1-44c9-8698-c57d488421fc.jpg?width=800",
+        "https://f.nooncdn.com/p/pnsku/N52535770A/45/_/1764242379/a1b6b612-3894-43e0-9038-3d2094416337.jpg?width=800",
+        "https://f.nooncdn.com/p/pnsku/N52535770A/45/_/1764242381/10debd45-ce90-4aab-9e65-88d347bbbfe3.jpg?width=800",
+        "https://f.nooncdn.com/p/pnsku/N52535770A/45/_/1764242380/b89a5889-209e-4725-8f94-dc698820618d.jpg?width=800"
+      ],
+      "max": 1,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": "المادة",
+          "value": "  ستانلس ستيل"
+        },
+        {
+          "title": " وزن المنتج",
+          "value": "75 KG"
+        },
+        {
+          "title": "    طول المنتج",
+          "value": "95 cm"
+        },
+        {
+          "title": "  محتويات العلبة",
+          "value": "Gas Cooker with 5 Burners"
+        },
+        {
+          "title": "  السعة الصافية للثلاجة",
+          "value": "440 L"
+        },
+        {
+          "title": " القوة الكهربائية",
+          "value": "45 W"
+        },
+        {
+          "title": "  ارتفاع المنتج ",
+          "value": "179 cm"
+        },
+        {
+          "title": " عرض المنتج",
+          "value": "91 cm "
+        },
+        {
+          "title": "  اللون",
+          "value": "فضي"
+        },
+        {
+          "title": "  عدد الموقدات",
+          "value": "5"
+        },
+        {
+          "title": "  سمات",
+          "value": " متعدد الوظائف, أضواء المؤشرات, يدوي"
+        },
+        {
+          "title": "التثبيت",
+          "value": "غير مثبت"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 44,
+      "title": " بوتاجاز زانوسي تيست ماكس 90 سم، اير فراير,سيلفر-ZCG97326XA",
+      "price": 31989,
+      "discount": 7,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZAEA298D9ADB01D51264DZ/45/_/1779629099/235ed7b6-229a-4349-9601-c43c6d1fe9b5.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZAEA298D9ADB01D51264DZ/45/_/1724767128/8e9103a2-f5f7-434b-a9d8-9d7063ae882d.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZAEA298D9ADB01D51264DZ/45/_/1724767149/331371d7-29c3-4b72-abc7-b276e29c331b.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZAEA298D9ADB01D51264DZ/45/_/1724767201/80294257-2734-4dfe-8539-45731bc42ea7.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZAEA298D9ADB01D51264DZ/45/_/1724767159/e07298fd-6f78-4403-ade4-f69477cf8ded.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZAEA298D9ADB01D51264DZ/45/_/1724767169/f966fd4e-881d-47ff-8858-7e264564b53c.jpg?width=800"
+      ],
+      "max": 1,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": " فضي"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "ZCG97326XA"
+        },
+        {
+          "title": "   نوع",
+          "value": "غاز"
+        },
+        {
+          "title": "  محتويات العلبة",
+          "value": "Gas Cooker with 5 Burners"
+        },
+        {
+          "title": "  عدد الموقدات",
+          "value": "5"
+        },
+        {
+          "title": " عدد الشعلات",
+          "value": "5"
+        },
+        {
+          "title": "  المادة",
+          "value": "ستانلس ستيل"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 63,
+      "title": "لاب توب لينوفو LOQ 15IRH8 بشاشة 15.6 بوصة، كور I7-13620H / رام 16 جيجابايت / 512 SSD / 6 جيجابايت Nvidia GeForce RTX Series 4050 DOS",
+      "price": 65786,
+      "discount": 0,
+      "cat_prefix": "laptop-pc",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZFE6542CC1709D8967D48Z/45/_/1780913396/75b5f156-50a1-4e5e-80a0-5774cc777fe6.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZFE6542CC1709D8967D48Z/45/_/1780913396/75b5f156-50a1-4e5e-80a0-5774cc777fe6.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZFE6542CC1709D8967D48Z/45/_/1780913397/a96e9cd2-2fba-4c73-ac0e-11e48473f921.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZFE6542CC1709D8967D48Z/45/_/1780913396/35e55845-bf1e-44b7-ac39-e2fd76ce638f.jpg?width=800"
+      ],
+      "bestSelling": false,
+      "latest": false,
+      "isOfferYouLike": false,
+      "max": 12,
+      "specifications": [
+        {
+          "title": " سرعة المعالج المركزي",
+          "value": "2.4 GHz"
+        },
+        {
+          "title": "  الذاكرة الداخلية",
+          "value": "512 GB"
+        },
+        {
+          "title": "   دقة الشاشة",
+          "value": "1080x1920"
+        },
+        {
+          "title": "   معدلات التحديث",
+          "value": "144 هرتز"
+        },
+        {
+          "title": "   حجم الشاشة  ",
+          "value": "15.6 in "
+        },
+        {
+          "title": "    عدد النواة  ",
+          "value": "10 نواة"
+        },
+        {
+          "title": "  رقم إصدار المعالج/الجيل ",
+          "value": "13th Gen "
+        },
+        {
+          "title": "    نظام التشغيل  ",
+          "value": "دوس "
+        },
+        {
+          "title": "    سلسلة النماذج  ",
+          "value": "Lenovo LOQ "
+        },
+        {
+          "title": "   ذاكرة الجرافيك ",
+          "value": "6 GB"
+        },
+        {
+          "title": "    حجم ذاكرة الوصول العشوائي",
+          "value": "16 GB "
+        },
+        {
+          "title": "    لغة لوحة المفاتيح",
+          "value": "الإنجليزية/العربية"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": " موقد مدمج 4 شعلات 60 سم سلسلة 6 حامل مقلاة من الحديد الزهر فولاذ مطلي بالمينا بدون إطار PCP6A6B90",
+      "price": 19999,
+      "discount": 7,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z4AC60FB12F0EFA0B7EBEZ/45/_/1779706501/7d680a11-b6ab-4410-b397-3b67b35bfad5.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z4AC60FB12F0EFA0B7EBEZ/45/_/1779706501/1dc084df-391d-4013-be49-2f8fabf6ab72.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z4AC60FB12F0EFA0B7EBEZ/45/_/1779706501/21f0bdae-6f7c-4861-8133-635c17f1ca62.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z4AC60FB12F0EFA0B7EBEZ/45/_/1779706501/9c8317ab-7ec1-4163-bd32-89d86a2ebb49.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z4AC60FB12F0EFA0B7EBEZ/45/_/1779706501/d89eb233-df17-4aea-a8b5-c681b4f647c8.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z4AC60FB12F0EFA0B7EBEZ/45/_/1779706501/8f4c4b8f-bf26-46f7-a719-7cba2f7aaeed.jpg?width=800"
+      ],
+      "max": 1,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": " Black"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "PCP6A6B90"
+        },
+        {
+          "title": "   نوع",
+          "value": "غاز"
+        },
+        {
+          "title": "  التثبيت",
+          "value": "مدمج"
+        },
+        {
+          "title": "  عدد الموقدات",
+          "value": "4"
+        },
+        {
+          "title": " ارتفاع المنتج",
+          "value": "5.3 cm"
+        },
+        {
+          "title": " عرض المنتج",
+          "value": "58.2 cm"
+        },
+        {
+          "title": " عدد الشعلات",
+          "value": "4"
+        },
+        {
+          "title": "  المادة",
+          "value": "تركيبة المواد"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 46,
+      "title": "غسالة LG تحميل أمامي مع واي فاي وعكس - 8 كجم - أسود أونيكس - F4Y2TYG6X",
+      "price": 20349,
+      "discount": 5,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z9976C9329852147A6DA2Z/45/_/1780306570/7713a534-e659-4872-9f2c-6d1790f3ccf8.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z9976C9329852147A6DA2Z/45/_/1780306570/1bbaea40-4686-446c-99fb-618b6a539cb2.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z9976C9329852147A6DA2Z/45/_/1780306570/ad4a0ccc-ea0a-432d-8e26-09226fa3960b.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z9976C9329852147A6DA2Z/45/_/1780306570/22837e5e-0b85-4cb9-a6cf-0340e11d09df.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z9976C9329852147A6DA2Z/45/_/1780306570/c903fd7f-b89a-4553-9349-ab376def93b7.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z9976C9329852147A6DA2Z/45/_/1780306570/8278a53b-118b-4530-9a73-d739e3d4d091.jpg?width=800"
+      ],
+      "max": 1,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": " Black"
+        },
+        {
+          "title": " أسلوب التحميل",
+          "value": "تعبئة أمامية"
+        },
+        {
+          "title": "   عمق المنتج",
+          "value": "55 cm"
+        },
+        {
+          "title": "  عرض المنتج",
+          "value": "60 cm"
+        },
+        {
+          "title": " السعة",
+          "value": "8 kg"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "F4Y2TYG6X"
+        },
+        {
+          "title": " ارتفاع المنتج",
+          "value": "85 cm"
+        },
+        {
+          "title": " سعة الغسالة",
+          "value": "8 kg"
+        },
+        {
+          "title": "  المادة",
+          "value": "تركيبة المواد"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 33,
+      "title": "JR-PBF12 حزمة بطارية باور بانك LED عالية السعة 2.4 أمبير لهواتف iPhone 14/14 Pro / 14 Pro Max/Samsung/Pixel/LG",
+      "price": 405,
+      "discount": 2,
+      "cat_prefix": "mobile-tablets",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZA2F3936D1404CE27DDC1Z/45/_/1788786529/dc1621a3-a374-4e90-a1b6-ce6416b49277.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZA2F3936D1404CE27DDC1Z/45/_/1779705507/b9a5e262-b9a7-4e91-a60d-7d1ec8767659.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZA2F3936D1404CE27DDC1Z/45/_/1779705507/3e95458e-6f72-4b8c-a669-2b0d6bb0f680.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZA2F3936D1404CE27DDC1Z/45/_/1779705507/71702493-f7e3-43eb-9b29-55beeb879bb1.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZA2F3936D1404CE27DDC1Z/45/_/1779705507/4b68f12b-4569-408c-8990-272011a67adf.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZA2F3936D1404CE27DDC1Z/45/_/1779705507/5105da38-7f7b-416a-87fe-3fe4e85d3e4d.jpg?width=800"
+      ],
+      "max": 8,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": " وزن المنتج ",
+          "value": "  230 g"
+        },
+        {
+          "title": " نوع",
+          "value": "   ليثيوم بوليمر"
+        },
+        {
+          "title": " سعة بطارية باور بانك",
+          "value": "10000 mAh"
+        },
+        {
+          "title": "     القوة الكهربائية",
+          "value": "22.5 W"
+        },
+        {
+          "title": "        عدد منافذ الـ USB",
+          "value": "3"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "JR-PBF12"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 47,
+      "title": "غسالة أمامية أمواج رائعة، واي فاي-بخار، محرك عاكس، 1400 دورة في الدقيقة UFB، أوتوماتيكي -",
+      "price": 25600,
+      "discount": 5,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZEF54FF8DEF1FA7726E14Z/45/_/1779704910/780fedd5-77f3-4dc1-8ad0-d367c9e130ae.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZEF54FF8DEF1FA7726E14Z/45/_/1779704910/e46ebecc-daf3-4686-b92b-b03ac41e6dff.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZEF54FF8DEF1FA7726E14Z/45/_/1779704910/1caa54e3-e51f-4300-917d-746b3988e95e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZEF54FF8DEF1FA7726E14Z/45/_/1779704910/71e03ef9-7879-423f-a8c2-a5aa260efe18.jpg?width=800"
+      ],
+      "max": 1,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": " Morandy grey"
+        },
+        {
+          "title": " التثبيت",
+          "value": "غير مثبت"
+        },
+        {
+          "title": "  السعة",
+          "value": "10.5 kg"
+        },
+        {
+          "title": "  سمات",
+          "value": "واي فاي"
+        },
+        {
+          "title": " سرعة الدوران",
+          "value": "1400 rpm"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "TW-BK115GF4EG(MK)"
+        },
+        {
+          "title": " ارتفاع المنتج",
+          "value": "85 cm"
+        },
+        {
+          "title": " تكنولوجيا",
+          "value": "إنفرتر"
+        },
+        {
+          "title": "الطاقة المستخدمة",
+          "value": "كهربائي"
+        },
+        {
+          "title": "  المادة",
+          "value": "تركيبة المواد"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 69,
+      "title": "PlayStation Portal Remote Player - بلاي ستيشن 5 (الإصدار الدولي)",
+      "price": 16998,
+      "discount": 5,
+      "cat_prefix": "PlayStation",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z005C033A47E2CF81A4D6Z/45/_/1780466787/219227f1-b94d-4e3a-825e-65d6174db621.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z005C033A47E2CF81A4D6Z/45/_/1780466787/20ebe0f2-1ee9-4343-9e24-ff0acf44e42e.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z005C033A47E2CF81A4D6Z/45/_/1780466787/389e7e63-c349-418e-aec8-a051c4d772e2.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z005C033A47E2CF81A4D6Z/45/_/1780466787/1903f1d3-1071-4d57-886e-4d318208c08a.jpg?width=800"
+      ],
+      "bestSelling": true,
+      "latest": true,
+      "isOfferYouLike": true,
+      "max": 5,
+      "specifications": [
+        {
+          "title": "نوع الجهاز",
+          "value": "PlayStation 5 Pro"
+        },
+        {
+          "title": "سعة التخزين",
+          "value": "2 TB SSD"
+        },
+        {
+          "title": "محرك الأقراص",
+          "value": "غير متوفر"
+        },
+        {
+          "title": "دقة العرض",
+          "value": "حتى 8K"
+        },
+        {
+          "title": "تقنية الرسوميات",
+          "value": "Ray Tracing"
+        },
+        {
+          "title": "معدل التحديث",
+          "value": "حتى 120 Hz"
+        },
+        {
+          "title": "اللون",
+          "value": "أبيض"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": " غسالة توشيبا أمامية التحميل، موجات رائعة، Ufb، بخار، محول أصل، عطر +، واي فاي، تنظيف الأسطوانة، حشوة مضادة للبكتيريا -",
+      "price": 17999,
+      "discount": 0,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZE60EC8D2462562B14950Z/45/_/1779706161/81f0ede6-6cca-44cc-9605-b76d52e96643.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZE60EC8D2462562B14950Z/45/_/1779706161/0b35cfba-e180-4cd6-9b59-0e9c472b103b.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZE60EC8D2462562B14950Z/45/_/1779706161/dcd666a5-1f7c-46ea-9414-63fe05beabcf.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZE60EC8D2462562B14950Z/45/_/1779706161/a333287c-5628-4029-8594-9f1b526b2bc6.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZE60EC8D2462562B14950Z/45/_/1779706161/a333287c-5628-4029-8594-9f1b526b2bc6.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZE60EC8D2462562B14950Z/45/_/1779706161/980a6482-6b9b-448b-ab88-529f76e369c7.jpg?width=800"
+      ],
+      "max": 1,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": " Morandy grey"
+        },
+        {
+          "title": " التثبيت",
+          "value": " عاكس"
+        },
+        {
+          "title": "  السعة",
+          "value": "8.5 kg"
+        },
+        {
+          "title": "  الطاقة المستخدمة",
+          "value": "كهربائي"
+        },
+        {
+          "title": "  أسلوب التحميل",
+          "value": "تعبئة أمامية"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "TW-T21BU95UWEG(MG)"
+        },
+        {
+          "title": "  سمات",
+          "value": "واي فاي"
+        },
+        {
+          "title": "  ارتفاع المنتج",
+          "value": "96 cm"
+        },
+        {
+          "title": " ميزات",
+          "value": "wi_fi_enabled"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "TW-BK115GF4EG(MK)"
+        },
+        {
+          "title": " ارتفاع المنتج",
+          "value": "96  cm"
+        },
+        {
+          "title": " تكنولوجيا",
+          "value": "إنفرتر"
+        },
+        {
+          "title": " طريقة التحكم",
+          "value": "مقبض الباب  "
+        },
+        {
+          "title": "الطاقة المستخدمة",
+          "value": "كهربائي"
+        },
+        {
+          "title": "  سعة الغسالة",
+          "value": " 8.5 kg"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 49,
+      "title": "فرن كهرباء فريش 65 لتر فضي بشواية ومروحة ولمبة وتايمر 2200واط",
+      "price": 4350,
+      "discount": 3,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z67E176F0AED93EB8A6A8Z/45/_/1781029168/219eb3eb-face-4585-8346-9948bb6617cc.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z67E176F0AED93EB8A6A8Z/45/_/1781029168/285f3f55-c799-4e14-aa03-ac8f5ffce4ae.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z67E176F0AED93EB8A6A8Z/45/_/1781029168/a67afd6e-b36d-4253-a8ed-e12dd72e5ae2.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z67E176F0AED93EB8A6A8Z/45/_/1781029169/bd302552-9fa5-4dad-9c5c-b72994a72ee6.jpg?width=800"
+      ],
+      "max": 4,
+      "latest": false,
+      "bestSelling": false,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": " اسود /فضي"
+        },
+        {
+          "title": " التثبيت",
+          "value": " يثبت على سطح المنضدة"
+        },
+        {
+          "title": "  السعة",
+          "value": "65 L"
+        },
+        {
+          "title": "  الطاقة المستخدمة",
+          "value": "كهربائي"
+        },
+        {
+          "title": "   سمات",
+          "value": "درجة حرارة قابلة للتعديل, فلتر تنقية الهواء, إغلاق تلقائي, بسلك"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "500013410"
+        },
+        {
+          "title": "  القوة الكهربائية",
+          "value": "2200 W"
+        },
+        {
+          "title": "  ارتفاع المنتج",
+          "value": "48 cm"
+        },
+        {
+          "title": " عرض المنتج",
+          "value": "47 cm"
+        },
+        {
+          "title": " رقم الموديل",
+          "value": "TW-BK115GF4EG(MK)"
+        },
+        {
+          "title": " ارتفاع المنتج",
+          "value": "96  cm"
+        },
+        {
+          "title": " المادة",
+          "value": "خليط معدني"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 52,
+      "title": "ES341 - ديب فريزر افقي - 304 لتر التطور",
+      "price": 12999,
+      "discount": 20,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/Z2655C7E72899FE05EDC3Z/45/_/1790241646/3c306b99-2b24-41eb-be4b-5db8fd934902.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z2655C7E72899FE05EDC3Z/45/_/1790241646/edd6b06e-edc3-4e71-8de0-05cdb38dd2a7.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z2655C7E72899FE05EDC3Z/45/_/1790241652/1b122383-4d31-4906-8b8f-c763433a74b3.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z2655C7E72899FE05EDC3Z/45/_/1790241705/9b81c89e-1613-499f-aa7c-14f492aa1ba6.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/Z2655C7E72899FE05EDC3Z/45/_/1790241705/c3bc906b-e65d-47db-a516-7338dfc54c05.jpg?width=800"
+      ],
+      "max": 4,
+      "latest": false,
+      "bestSelling": true,
+      "isOfferYouLike": false,
+      "specifications": [
+        {
+          "title": "اللون",
+          "value": "  فضى"
+        },
+        {
+          "title": " التثبيت",
+          "value": " قائم على الأرض"
+        },
+        {
+          "title": "  السعة",
+          "value": "303   L"
+        },
+        {
+          "title": "  الطاقة المستخدمة",
+          "value": "كهربائي"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "ES341 Chest Freezer -Sanisteel-Silver"
+        },
+        {
+          "title": "  عمق المنتج ",
+          "value": "62 cm"
+        },
+        {
+          "title": "  عرض المنتج",
+          "value": "104 cm  "
+        },
+        {
+          "title": " ارتفاع المنتج",
+          "value": "87 cm"
+        }
+      ],
+      "features": []
+    },
+    {
+      "id": 53,
+      "title": "ديب فريزر دى فروست افقي يونيون اير، حوض داخلي ستانلس ستيل سعة 145لتر صافي UC-200VVA-DHS - فضي",
+      "price": 8999,
+      "discount": 12,
+      "cat_prefix": "large-home-appliances",
+      "img": [
+        "https://f.nooncdn.com/p/pzsku/ZBDCAF4640FA3119847A2Z/45/1767808702/eee3170d-3fc3-4eb9-9b71-b36351e2c679.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZBDCAF4640FA3119847A2Z/45/1757692397/783e3630-4ccc-424b-9eb7-f84c83cc940a.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZBDCAF4640FA3119847A2Z/45/1752412309/d9d6b365-22aa-4566-affc-15b0dc8f260c.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZBDCAF4640FA3119847A2Z/45/1752412309/2ccb55b5-e095-4f3e-9609-3d522b561643.jpg?width=800",
+        "https://f.nooncdn.com/p/pzsku/ZBDCAF4640FA3119847A2Z/45/1752412308/2cf0f6ea-d990-4cdf-bb95-be0b9a5c2542.jpg?width=800"
+      ],
+      "max": 4,
+      "latest": true,
+      "bestSelling": false,
+      "isOfferYouLike": true,
+      "specifications": [
+        {
+          "title": " المادة",
+          "value": "  خليط معدني"
+        },
+        {
+          "title": " التثبيت",
+          "value": " قائم على الأرض"
+        },
+        {
+          "title": "  السعة",
+          "value": "145  L"
+        },
+        {
+          "title": " سمات",
+          "value": "درجة حرارة قابلة للتعديل"
+        },
+        {
+          "title": "  الطاقة المستخدمة",
+          "value": "كهربائي"
+        },
+        {
+          "title": "  رقم الموديل",
+          "value": "UC-200VVA-DHS"
+        },
+        {
+          "title": "  عمق المنتج ",
+          "value": "60  cm"
+        },
+        {
+          "title": "  عرض المنتج",
+          "value": "95  cm  "
+        },
+        {
+          "title": " ارتفاع المنتج",
+          "value": "97 cm"
+        }
+      ],
+      "features": []
+    }
+  ],
+  "wishlist": [
+    {
+      "userId": 3,
+      "productId": 21,
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "nedal@gamil.com",
+      "password": "$2a$10$XyD47.0V3DA8X3JklJ9PxOuqpzwt2LduxhYiuQ5whtgSllmZjnN3u",
+      "firstName": "gfdh",
+      "lastName": "dfghdgf",
+      "id": 1
+    },
+    {
+      "email": "nedAK@gam.com",
+      "password": "$2a$10$bWZGzzSJY5eg36uOSKB3Ie8WYQLxH8smE0EkQY54YSNhzetuIqy2u",
+      "firstName": "eryer",
+      "lastName": "eryre",
+      "id": 2
+    },
+    {
+      "email": "nedal@gmail.com",
+      "password": "$2a$10$tJUFQQ0xgxN8bNrrLeZMeuWqjXOqyWLCOr8aNlR4.hmseNGZ0zNca",
+      "firstName": "gsdfg",
+      "lastName": "sdfg",
+      "id": 3
+    },
+    {
+      "email": "Nedal@gmail.com",
+      "password": "$2a$10$cYycgu4LSp6uzTBu7HJ.BePGyip8zc89GdnAEDy962Vor/9HNjEOe",
+      "firstName": "نضال",
+      "lastName": "محمد",
+      "id": 4
+    }
+  ],
+  "orders": [
+    {
+      "ordersItems": [
+        {
+          "title": " شاشة تلفزيون سمارت سامسونج ، مقاس 43 بوصة ، ليد ، دقة FHD ، بريسيفر داخلي",
+          "img": "https://media.btech.com/catalogs/c/b/e/d/cbed9b871da4788796472af1e159d58f9d07ff53_07848723e8ac1bd57b2adde754f5c5cda5514f920f8f6adcc2f7c59b6a95ada1.jpeg",
+          "price": 15034,
+          "quntity": 1
+        },
+        {
+          "title": "هاتف سامسونج جالاكسي A07 ثنائي الشريحة، أخضر، ذاكرة 4 جيجابايت، سعة تخزين 64 جيجابايت، يدعم شبكة الجيل الرابع - إصدار الشرق الأوسط",
+          "img": "https://f.nooncdn.com/p/pzsku/ZCC7C2C9E7F16A2CAC924Z/45/_/1772090829/7f896495-f735-4586-abd0-d32ab09d11b8.jpg?width=800",
+          "price": 9910,
+          "quntity": 1
+        }
+      ],
+      "userId": 3,
+      "subTotal": 24944,
+      "id": 1
+    }
+  ]
+}

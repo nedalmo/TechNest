@@ -1,0 +1,37 @@
+.slideProductHomeItems > .swiper-button-prev,
+.slideProductHomeItems > .swiper-button-next {
+  transition: 0.4s;
+  width: 35px;
+  height: 35px;
+  padding: 9px;
+  font-weight: bold;
+  border-radius: 100%;
+  color: black;
+  background-color: rgb(222, 216, 216);
+  position: absolute;
+
+  --swiper-navigation-sides-offset: -6px;
+  right: 0;
+}
+
+.brandSlied > .swiper-button-prev,
+.brandSlied > .swiper-button-next {
+  transition: 0.4s;
+  width: 35px;
+  height: 35px;
+  padding: 9px;
+  font-weight: bold;
+  border-radius: 100%;
+  color: black;
+  background-color: rgb(222, 216, 216);
+  position: absolute;
+
+  --swiper-navigation-sides-offset: 0px;
+  right: 0;
+}
+.brandSlied .swiper-pagination {
+  display: flex;
+
+  justify-content: center;
+  margin-bottom: -10px !important;
+}

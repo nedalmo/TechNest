@@ -1,0 +1,360 @@
+{
+  "locations": [
+    {
+      "id": "cairo",
+      "title": "Cairo",
+      "areas": [
+        { "id": "cairo", "title": "Cairo" },
+        { "id": "new-cairo", "title": "New Cairo" },
+        { "id": "nasr-city", "title": "Nasr City" },
+        { "id": "heliopolis", "title": "Heliopolis" },
+        { "id": "maadi", "title": "Maadi" },
+        { "id": "helwan", "title": "Helwan" }
+      ]
+    },
+    {
+      "id": "giza",
+      "title": "Giza",
+      "areas": [
+        { "id": "giza", "title": "Giza" },
+        { "id": "october", "title": "6th of October" },
+        { "id": "sheikh-zayed", "title": "Sheikh Zayed" },
+        { "id": "hawamdeya", "title": "Hawamdeya" },
+        { "id": "badrasheen", "title": "Badrasheen" },
+        { "id": "saf", "title": "El Saf" },
+        { "id": "atfih", "title": "Atfih" },
+        { "id": "al-ayaat", "title": "Al Ayat" },
+        { "id": "kirdasa", "title": "Kerdasa" },
+        { "id": "ausim", "title": "Awsim" },
+        { "id": "embaba", "title": "Imbaba" }
+      ]
+    },
+    {
+      "id": "alexandria",
+      "title": "Alexandria",
+      "areas": [
+        { "id": "alexandria", "title": "Alexandria" },
+        { "id": "borg-el-arab", "title": "Borg El Arab" },
+        { "id": "new-borg-el-arab", "title": "New Borg El Arab" }
+      ]
+    },
+    {
+      "id": "qalyubia",
+      "title": "Qalyubia",
+      "areas": [
+        { "id": "banha", "title": "Banha" },
+        { "id": "qalyub", "title": "Qalyub" },
+        { "id": "shubra-el-kheima", "title": "Shubra El Kheima" },
+        { "id": "kafr-shukr", "title": "Kafr Shukr" },
+        { "id": "toukh", "title": "Toukh" },
+        { "id": "qaha", "title": "Qaha" },
+        { "id": "khanka", "title": "El Khanka" },
+        { "id": "shibin-el-qanater", "title": "Shibin El Qanater" }
+      ]
+    },
+    {
+      "id": "fayoum",
+      "title": "Fayoum",
+      "areas": [
+        { "id": "fayoum-city", "title": "Fayoum" },
+        { "id": "sinnuris", "title": "Sinnuris" },
+        { "id": "etsa", "title": "Itsa" },
+        { "id": "tamia", "title": "Tamiya" },
+        { "id": "ibshaway", "title": "Ibshaway" },
+        { "id": "youssef-el-seddiq", "title": "Youssef El Seddik" }
+      ]
+    },
+    {
+      "id": "beheira",
+      "title": "Beheira",
+      "areas": [
+        { "id": "damanhour", "title": "Damanhour" },
+        { "id": "kafr-el-dawwar", "title": "Kafr El Dawwar" },
+        { "id": "rashid", "title": "Rashid" },
+        { "id": "edco", "title": "Edco" },
+        { "id": "abu-hummus", "title": "Abu Hummus" },
+        { "id": "delengat", "title": "Delengat" },
+        { "id": "mahmoudiyah", "title": "Mahmoudiyah" },
+        { "id": "itay-el-barud", "title": "Itay El Barud" },
+        { "id": "kom-hamada", "title": "Kom Hamada" },
+        { "id": "wadi-el-natroun", "title": "Wadi El Natrun" },
+        { "id": "abu-el-matamir", "title": "Abu El Matamir" },
+        { "id": "housh-issa", "title": "Housh Issa" },
+        { "id": "rahmaniya", "title": "Rahmaniya" },
+        { "id": "nobaria", "title": "New Nubariya" }
+      ]
+    },
+    {
+      "id": "sharqia",
+      "title": "Sharqia",
+      "areas": [
+        { "id": "zagazig", "title": "Zagazig" },
+        { "id": "belbeis", "title": "Belbeis" },
+        { "id": "minya-el-qamh", "title": "Minya El Qamh" },
+        { "id": "abu-kebir", "title": "Abu Kebir" },
+        { "id": "faqus", "title": "Faqous" },
+        { "id": "10th-of-ramadan", "title": "10th of Ramadan" },
+        { "id": "hehya", "title": "Hehya" },
+        { "id": "kafr-saqr", "title": "Kafr Saqr" },
+        { "id": "abu-hammad", "title": "Abu Hammad" },
+        { "id": "el-ibrahimia", "title": "El Ibrahimiya" },
+        { "id": "derb-negm", "title": "Derb Negm" }
+      ]
+    },
+    {
+      "id": "dakahlia",
+      "title": "Dakahlia",
+      "areas": [
+        { "id": "mansoura", "title": "Mansoura" },
+        { "id": "mit-ghamr", "title": "Mit Ghamr" },
+        { "id": "talkha", "title": "Talkha" },
+        { "id": "aga", "title": "Aga" },
+        { "id": "belqas", "title": "Belqas" },
+        { "id": "sinbillawin", "title": "Sinbillawin" },
+        { "id": "manzala", "title": "Manzala" },
+        { "id": "matareya", "title": "Matareya" },
+        { "id": "minyet-el-nasr", "title": "Minyet El Nasr" },
+        { "id": "sherbin", "title": "Sherbin" },
+        { "id": "gamalia", "title": "Gamalia" },
+        { "id": "mit-salsil", "title": "Mit Salsil" }
+      ]
+    },
+    {
+      "id": "gharbia",
+      "title": "Gharbia",
+      "areas": [
+        { "id": "tanta", "title": "Tanta" },
+        { "id": "mahalla", "title": "Mahalla El Kubra" },
+        { "id": "kafr-el-zayat", "title": "Kafr El Zayat" },
+        { "id": "zفتى", "title": "Zefta" },
+        { "id": "samannoud", "title": "Samannoud" },
+        { "id": "basyoun", "title": "Basyoun" },
+        { "id": "qutour", "title": "Qutour" }
+      ]
+    },
+    {
+      "id": "monufia",
+      "title": "Monufia",
+      "areas": [
+        { "id": "shebin-el-kom", "title": "Shebin El Kom" },
+        { "id": "menouf", "title": "Menouf" },
+        { "id": "ashmoun", "title": "Ashmoun" },
+        { "id": "tala", "title": "Tala" },
+        { "id": "berket-el-sabaa", "title": "Berket El Sabaa" },
+        { "id": "quwaysna", "title": "Quwaysna" },
+        { "id": "sadat", "title": "Sadat" }
+      ]
+    },
+    {
+      "id": "kafr-el-sheikh",
+      "title": "Kafr El Sheikh",
+      "areas": [
+        { "id": "kafr-el-sheikh", "title": "Kafr El Sheikh" },
+        { "id": "desouk", "title": "Desouk" },
+        { "id": "fouh", "title": "Fouh" },
+        { "id": "metoubes", "title": "Metoubes" },
+        { "id": "hamoul", "title": "Hamoul" },
+        { "id": "balteem", "title": "Baltim" },
+        { "id": "sidi-salem", "title": "Sidi Salem" },
+        { "id": "burullus", "title": "Burullus" }
+      ]
+    },
+    {
+      "id": "damietta",
+      "title": "Damietta",
+      "areas": [
+        { "id": "damietta", "title": "Damietta" },
+        { "id": "new-damietta", "title": "New Damietta" },
+        { "id": "faraskour", "title": "Faraskour" },
+        { "id": "kafr-saad", "title": "Kafr Saad" },
+        { "id": "zarqa", "title": "El Zarqa" },
+        { "id": "kafr-el-bateekh", "title": "Kafr El Bateekh" }
+      ]
+    },
+    {
+      "id": "port-said",
+      "title": "Port Said",
+      "areas": [
+        { "id": "port-said", "title": "Port Said" },
+        { "id": "port-fouad", "title": "Port Fouad" }
+      ]
+    },
+    {
+      "id": "ismailia",
+      "title": "Ismailia",
+      "areas": [
+        { "id": "ismailia", "title": "Ismailia" },
+        { "id": "fayed", "title": "Fayed" },
+        { "id": "qanatir", "title": "East Qantara" },
+        { "id": "qanatir-west", "title": "West Qantara" },
+        { "id": "tal-el-kebir", "title": "Tal El Kebir" },
+        { "id": "qasasin", "title": "Qassasin" },
+        { "id": "abu-sweer", "title": "Abu Suweir" }
+      ]
+    },
+    {
+      "id": "suez",
+      "title": "Suez",
+      "areas": [
+        { "id": "suez", "title": "Suez" },
+        { "id": "ain-sokhna", "title": "Ain Sokhna" }
+      ]
+    },
+    {
+      "id": "north-sinai",
+      "title": "North Sinai",
+      "areas": [
+        { "id": "arish", "title": "Arish" },
+        { "id": "sheikh-zuweid", "title": "Sheikh Zuweid" },
+        { "id": "rafah", "title": "Rafah" },
+        { "id": "bir-el-abd", "title": "Bir El Abd" },
+        { "id": "hasana", "title": "Hasana" },
+        { "id": "nakhl", "title": "Nakhl" }
+      ]
+    },
+    {
+      "id": "south-sinai",
+      "title": "South Sinai",
+      "areas": [
+        { "id": "el-tor", "title": "El Tor" },
+        { "id": "sharm-el-sheikh", "title": "Sharm El Sheikh" },
+        { "id": "dahab", "title": "Dahab" },
+        { "id": "nuweiba", "title": "Nuweiba" },
+        { "id": "taba", "title": "Taba" },
+        { "id": "safaga", "title": "Ras Sedr" }
+      ]
+    },
+    {
+      "id": "red-sea",
+      "title": "Red Sea",
+      "areas": [
+        { "id": "hurghada", "title": "Hurghada" },
+        { "id": "safaga", "title": "Safaga" },
+        { "id": "qusair", "title": "El Quseir" },
+        { "id": "marsa-alam", "title": "Marsa Alam" },
+        { "id": "ras-ghareb", "title": "Ras Gharib" }
+      ]
+    },
+    {
+      "id": "beni-suef",
+      "title": "Beni Suef",
+      "areas": [
+        { "id": "beni-suef", "title": "Beni Suef" },
+        { "id": "al-wasta", "title": "Al Wasta" },
+        { "id": "nasser", "title": "Nasser" },
+        { "id": "beba", "title": "Beba" },
+        { "id": "samasta", "title": "Samasta" },
+        { "id": "ihnasia", "title": "Ihnasia" },
+        { "id": "al-fashn", "title": "Al Fashn" }
+      ]
+    },
+    {
+      "id": "minya",
+      "title": "Minya",
+      "areas": [
+        { "id": "minya", "title": "Minya" },
+        { "id": "new-minya", "title": "New Minya" },
+        { "id": "mallawi", "title": "Mallawi" },
+        { "id": "samalut", "title": "Samalut" },
+        { "id": "maghagha", "title": "Maghagha" },
+        { "id": "bani-mazar", "title": "Beni Mazar" },
+        { "id": "abu-qurqas", "title": "Abu Qurqas" },
+        { "id": "deir-mawas", "title": "Deir Mawas" },
+        { "id": "matay", "title": "Matay" }
+      ]
+    },
+    {
+      "id": "assiut",
+      "title": "Assiut",
+      "areas": [
+        { "id": "assiut", "title": "Assiut" },
+        { "id": "new-assiut", "title": "New Assiut" },
+        { "id": "dairut", "title": "Dairut" },
+        { "id": "manfalut", "title": "Manfalut" },
+        { "id": "el-qousia", "title": "El Qousia" },
+        { "id": "abu-tig", "title": "Abu Tig" },
+        { "id": "sidfa", "title": "Sidfa" },
+        { "id": "ghanim", "title": "El Ghanayem" },
+        { "id": "al-badari", "title": "Al Badari" }
+      ]
+    },
+    {
+      "id": "sohag",
+      "title": "Sohag",
+      "areas": [
+        { "id": "sohag", "title": "Sohag" },
+        { "id": "akhmim", "title": "Akhmim" },
+        { "id": "girga", "title": "Girga" },
+        { "id": "tahta", "title": "Tahta" },
+        { "id": "baliana", "title": "El Baliana" },
+        { "id": "maragha", "title": "El Maragha" },
+        { "id": "juhaynah", "title": "Juhaynah" },
+        { "id": "sakulta", "title": "Sakulta" },
+        { "id": "al-mansha", "title": "Al Mansha" },
+        { "id": "dar-el-salam", "title": "Dar El Salam" }
+      ]
+    },
+    {
+      "id": "qena",
+      "title": "Qena",
+      "areas": [
+        { "id": "qena", "title": "Qena" },
+        { "id": "nag-hammadi", "title": "Nag Hammadi" },
+        { "id": "qift", "title": "Qift" },
+        { "id": "qus", "title": "Qus" },
+        { "id": "dishna", "title": "Dishna" },
+        { "id": "abu-tisht", "title": "Abu Tesht" },
+        { "id": "naqada", "title": "Naqada" },
+        { "id": "farshut", "title": "Farshout" }
+      ]
+    },
+    {
+      "id": "luxor",
+      "title": "Luxor",
+      "areas": [
+        { "id": "luxor", "title": "Luxor" },
+        { "id": "esna", "title": "Esna" },
+        { "id": "armant", "title": "Armant" },
+        { "id": "al-bayadiya", "title": "Al Bayadiya" },
+        { "id": "al-qurna", "title": "Al Qurna" }
+      ]
+    },
+    {
+      "id": "aswan",
+      "title": "Aswan",
+      "areas": [
+        { "id": "aswan", "title": "Aswan" },
+        { "id": "kom-ombo", "title": "Kom Ombo" },
+        { "id": "edfu", "title": "Edfu" },
+        { "id": "daraw", "title": "Daraw" },
+        { "id": "nasr-el-nuba", "title": "Nasr El Nuba" },
+        { "id": "abu-simbel", "title": "Abu Simbel" }
+      ]
+    },
+    {
+      "id": "new-valley",
+      "title": "New Valley",
+      "areas": [
+        { "id": "kharga", "title": "Kharga" },
+        { "id": "dakhla", "title": "Dakhla" },
+        { "id": "farafra", "title": "Farafra" },
+        { "id": "baris", "title": "Baris" },
+        { "id": "balat", "title": "Balat" }
+      ]
+    },
+    {
+      "id": "matrouh",
+      "title": "Matrouh",
+      "areas": [
+        { "id": "marsa-matrouh", "title": "Marsa Matrouh" },
+        { "id": "el-hamam", "title": "El Hamam" },
+        { "id": "el-alamein", "title": "El Alamein" },
+        { "id": "dabaa", "title": "Dabaa" },
+        { "id": "salloum", "title": "Salloum" },
+        { "id": "sidi-barrani", "title": "Sidi Barrani" },
+        { "id": "siwa", "title": "Siwa" },
+        { "id": "nagila", "title": "Nagila" }
+      ]
+    }
+  ]
+}
