@@ -5,7 +5,6 @@ import sliceCategorys from "./categorys/Slicecategorys";
 import sliceProduct from "./products/SliceProducts";
 import cartSlice from "./cart/sliceCart";
 import { persistReducer } from "redux-persist";
-import storage from "redux-persist/lib/storage";
 import  authSlice from "./auth/thunkAuth/authSlice";
 import sliceGetCategoryProduct from "./categoryeProduct/sliceGetCategoryProduct"
 import sliceOrder from "./orders/sliceorder"
@@ -21,35 +20,44 @@ import sliceDetailsProduct from "./getDetailsProduct/sliceDetailsProduct"
 import sliceLanguage from "./language/sliceLanguage"
 import sliceLocations  from "./loactions/sliceLocations"
 import sliceLikeProduct from "./likeProduct/sliceLikeProduct"
-const rootPrisisteConfig  = {
-    key: "root",
+import storageModule from "redux-persist/lib/storage";
+
+const storage =
+  (storageModule as unknown as { default?: typeof storageModule }).default ??
+  storageModule;
+  
+  const rootPrisisteConfig  = {
+  key: "root",
      whitelist: ["items","authSlice"],
-    storage:storage.default ,
+    storage:storage ,
 }
 
 const loactionStorage  = {
     key: "locations",
      whitelist: ["locations"],
-    storage:storage.default ,
+    storage:storage ,
 }
+
+
 
 const authPrisistConfig = {
   key:"auth",
   whitelist:["user","accessToken"],
-    storage:storage.default ,
+    storage:storage ,
 }
 
 const perseistConfigCart = {
   key: "cart",
   whitelist: ["items"],
-  storage:storage.default,
+  storage:storage,
 };
 const perseistConfigsLanguage = {
   key: "Language",
   whitelist: ["language"],
-  storage:storage.default,
+  storage:storage,
 };
 
+console.log(storage)
 
 const rootReducer = combineReducers({
 

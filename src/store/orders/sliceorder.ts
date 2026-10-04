@@ -1,6 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
 import type { loading } from "../../types/loadingType";
-import type { ProductType } from "../../types/product";
 import type { TOrder } from "../../types/orders";
 
 
@@ -24,9 +23,7 @@ const sliceOrder = createSlice({
     name:"orders",
     initialState,
     reducers:{},
-    extraReducers:(builder=>{
-        
-    })
+ 
 });
 
 export default sliceOrder.reducer

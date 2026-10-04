@@ -22,7 +22,7 @@ export default function Home() {
   }, [dispatch]);
   const { t } = useTranslation();
 
-  const { bestSelling, latest, offerYouLike, loading } = useAppSelecor(
+  const { bestSelling, latest, offerYouLike } = useAppSelecor(
     (state) => state.sliceGetCategoryProduct,
   );
 

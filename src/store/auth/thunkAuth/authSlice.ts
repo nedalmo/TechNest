@@ -42,7 +42,7 @@ const authSlice = createSlice({
         builder.addCase(authThunk.pending,(state)=>{
             state.loading = "pending"
         });
-        builder.addCase(authThunk.fulfilled,(state,action)=>{
+        builder.addCase(authThunk.fulfilled,(state)=>{
             state.loading = "succeeded"
 
         });
